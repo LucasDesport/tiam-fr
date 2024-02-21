@@ -11,6 +11,15 @@ TIAM-FR documentation
    :titlesonly:
    
    overview/index
+   spatial-representation/index
+   time-representation/index
+   demands/index
+   optimization/index
+   sectoral-coverage/index
+   trades/index
+   scenarios/index
+   references/index
+   
 
    
 
