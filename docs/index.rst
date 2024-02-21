@@ -10,14 +10,8 @@ TIAM-FR documentation
    :maxdepth: 3
    :titlesonly:
    
-   model_objective/index
-   regional_coverage/index
-   sectoral_coverage/index
-   restrictions/index
-   scenarios/index
-   exogenous/index
-   optional/index
-   literature/index
+   overview/index
+
    
 
 
