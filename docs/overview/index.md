@@ -1,4 +1,4 @@
-# Model Overview
+# Overview
 
 This section describes:
 
