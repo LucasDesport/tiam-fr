@@ -11,7 +11,8 @@ continental level (Postic, 2015; Siggini, 2022), and global level (Boubault and 
 As part of the TIMES model family, TIAM-FR is a linear programming partial equilibrium model. It is categorized as a bottom-up model because of 
 its technology-rich description of the energy system, depicting and tracking how energy is extracted, transformed, and used in the world.
 
-![](Times_Inputs_and_Ouput.png "hello beauty")  
+![](Times_Inputs_and_Ouput.png)  
+Fig. 1: TIMES structure
 
 Linear programming is formulated in the GAMS (General Algebraic Modelling System) language and solved with the linear programming optimizer CPLEX, by 
 minimizing the total discounted cost of the energy system. 
