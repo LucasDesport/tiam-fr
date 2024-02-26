@@ -2,7 +2,7 @@
 
 TIAM-FR is a global energy model divided into fifteen regions. Figure 1 shows the disaggregatetion of regions with their labels in the legend. This disaggregation comprises 7 countries (USA, Canada, Mexico, China, India, South Korea, and Japan); some regions like Africa and Latin and Central America are highly aggregated, mainly due to a lack of national data for these regions and for simplicity. Energy trades are modeled between these regions, including crude oil, natural gas, liquefied natural gas (LNG), coal, bioenergy, and hydrogen. For each region, specific socio-economic parameters are associated reflecting the cost of capital and labor (Table 1), along with the energy resources available (Pye et al., 2020).
 
-![TIAM-regions](images/mapchart.pgn)
+![TIAM-regions](images/mapchart.png)
 Fig. 1: Regional disaggregation of TIAM-FR
 
 |       |AFR |AUS |CAN |CHI |CSA |EEU |FSU |IND |JPN |MEA |MEX |ODA |SKO |USA |WEU |
