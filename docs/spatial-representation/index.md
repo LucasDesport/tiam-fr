@@ -7,7 +7,7 @@ Fig. 1: Regional disaggregation of TIAM-FR
 
 For each region, specific socio-economic parameters are associated reflecting the cost of capital and labor (Table 1), along with the [energy resources](../sectoral-coverage/index.md) available in the base year.
 
-Table 1: Region specific capital and labor scalars in TIAM-FR
+Table 1: Region-specific capital and labor scalars in TIAM-FR
 |       |AFR |AUS |CAN |CHI |CSA |EEU |FSU |IND |JPN |MEA |MEX |ODA |SKO |USA |WEU |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |Capital|1.25|1.2 |1.0 |0.9 |1.25|1.0 |1.25|0.9 |1.4 |1.25|1.0 |1.25|1.0 |1.0 |1.1 |
