@@ -20,7 +20,9 @@ The model covers [15 regions](../spatial-representation/index.md) and project th
 + the technologies processing final energy and satisfying energy demand,
 + interactions between processes,
 + the marginal cost of producing energy or material commodities,
-+ the total cost of satisfying global energy demand. 
++ the total cost of satisfying global energy demand.
+
+For an exhaustive and comprehensive description of TIMES model, please consult the [ETSAP documentation](https://github.com/etsap-TIMES/TIMES_Documentation/blob/master/Documentation_for_the_TIMES_Model-Part-I.pdf).
 
 **References**
 
