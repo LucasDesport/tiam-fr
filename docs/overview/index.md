@@ -13,11 +13,7 @@ its technology-rich description of the [energy system](../sectoral-coverage/inde
 ![TIMES structure](images/Times_IO.png)  
 Fig. 1: TIMES structure
 
-The model covers [15 regions](../spatial-representation/index.md) and project their energy system troughout the 21st century starting in 2018 with user-defined [milestone years and time slices](../time-representation/index.md). Different scenarios enable the user to explore how the global energy system could evolve [optimally](../optimization/index.md).
-
-Linear programming is formulated in the GAMS (General Algebraic Modelling System) language and solved with the linear programming optimizer CPLEX, by 
-minimizing the total discounted cost of the energy system. 
-The main results that can be discussed with TIAM-FR are 
+The model covers [15 regions](../spatial-representation/index.md) and project their energy system troughout the 21st century starting in 2018 with user-defined [milestone years and time slices](../time-representation/index.md). Different scenarios enable the user to explore how the global energy system could evolve [optimally](../optimization/index.md). The main results that can be discussed with TIAM-FR are 
 + the levels of GHG emissions, 
 + the primary energy use,
 + the final energy use,
