@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'TIAM-FR'
-copyright = '2023, Author One, Author Two, Author Three'
+copyright = '2024, Centre for Applied Mathematics of Mines Paris - PSL'
 author = 'Author One, Author Two, Author Three'
 
 # -- General configuration ---------------------------------------------------
