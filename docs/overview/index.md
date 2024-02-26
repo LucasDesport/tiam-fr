@@ -8,10 +8,12 @@ to climate policies (taxes, agreements, pledges, etc.). It has been used for a w
 (Andrade, 2022; Genave, 2021; Selosse et al., 2018), national level (Assoumou, 2006; Doudard, 2017; Millot et al., 2020),
 continental level (Postic, 2015; Siggini, 2022), and global level (Boubault and Maïzi, 2019; Kang, 2017; Seck et al., 2022a; Selosse, 2019).  
 As part of the TIMES model family, TIAM-FR is a linear programming partial equilibrium model. It is categorized as a bottom-up model because of 
-its technology-rich description of the energy system, depicting and tracking how energy is extracted, transformed, and used in the world.
+its technology-rich description of the [energy system](../sectoral-coverage/index.md), depicting and tracking how energy is extracted, transformed, traded, and used in the world. The [demands](../demands/index.md) for energy, transportation and materials are given exogenously.
 
 ![TIMES structure](images/Times_IO.png)  
 Fig. 1: TIMES structure
+
+The model covers [15 regions](../spatial-representation/index.md) and project their energy system troughout the 21st century starting in 2018 with user-defined [milestone years and time slices](../time-representation/index.md). Different scenarios enable the user to explore how the global energy system could evolve [optimally](../optimization/index.md).
 
 Linear programming is formulated in the GAMS (General Algebraic Modelling System) language and solved with the linear programming optimizer CPLEX, by 
 minimizing the total discounted cost of the energy system. 
