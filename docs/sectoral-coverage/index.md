@@ -9,6 +9,6 @@ In TIAM-FR, the RES network links primary energy extraction and renewable energy
 titlesonly:
 glob:
 ---
-co2-accounting
+CO2-accounting
 *
 ```
