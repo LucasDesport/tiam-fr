@@ -7,11 +7,3 @@ factories, refineries, end-use devices such as cars and heating systems), or int
 
 ![RES](RES.png)
 
-```{toctree}
----
-titlesonly:
-glob:
----
-CO2-accounting
-*
-```
