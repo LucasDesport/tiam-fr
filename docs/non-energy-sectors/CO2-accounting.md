@@ -10,8 +10,8 @@ Regardless the fossil resource powering a process, all the carbon within that re
 
 On one hand, the CCUFOS commodity is transformed by the CCU plant into a fuel (SYNFUEL) containing fossil carbon (90% of the initial amount). It undergoes processing by a sector-specific *FuelTech* before being utilized in the end-use process. In TIMES modeling, *FuelTechs*, or Fuel Technologies, prevent duplicating end-use processes based on the type of fuel they consume. For instance, the model includes a *FuelTech* named FT_TRAMET (Figure 2), handling various methanol commodities to produce a single methanol commodity (TRAMET) for end-use processes in the transport sector (TRA), such as trucks and light vehicles. At this stage of the reference energy system (RES), the reemitted CO<sub>2</sub> is allocated to the sector responsible for its emission, following the fuel's emissions factor.
 
-![Example of a FuelTech](ft-example.png)
-Fig. 1: Example of a FuelTech for the transport sector and the methanol commodity
+![Example of a FuelTech](ft-example.png)  
+Fig. 2: Example of a FuelTech for the transport sector and the methanol commodity
 
 In this manner, the 90% CO<sub>2</sub> that has been prevented by the capture unit is ultimately released into the atmosphere at the *FuelTech* level. Conversely, the CO<sub>2</sub> earmarked for storage (SNKCO2) can be directed to onshore (SINKON), offshore (SINKOFF), or mineralized (CCUS) storage processes, contingent on regional storage capacity and costs. Consequently, the 90%  CO<sub>2</sub> avoided at the capture unit is securely sealed.
 
