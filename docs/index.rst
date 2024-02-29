@@ -8,7 +8,6 @@ TIAM-FR documentation
 
 .. toctree::
    :caption: Table of Contents
-   :titlesonly:
    :maxdepth: 3
    
    overview/index
