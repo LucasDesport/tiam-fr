@@ -16,6 +16,7 @@ TIAM-FR documentation
    demands/index
    optimization/index
    sectoral-coverage/index
+   non-energy-sectors/index
    trades/index
    scenarios/index
    references/index
