@@ -19,6 +19,7 @@ Where $T_{ec}$ is the total energy consumption in MWh/tCO2,
 
 The assumed techno-economic parameters are summarized in the following table.
 
+Table 1: Techno-economic properties of DAC in TIAM-FR
 |               |Units|SNKDACSSGRD|SNKDACSSVRA|
 |---------------|-----|-----------|-----------|
 |Efficiency     |PJ/kt|     0.0046|     0.0046|
