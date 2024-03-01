@@ -2,7 +2,7 @@
 
 Only the solid sorbent DAC process is considered in TIAM-FR, as it is the only operational technology currently. It cincludes heat pumps that provide low-temperature heat to regenerate the sorbent.
 though, two types of energy supply are considered, i.e. grid electricity and dedicated renewables from wind or solar.  
-Techno-economic properties of DAC technologies are extracted from NASEM (2019) using their high assumption and the energy consumption is assumed following the analysis of Herzog (2022), who calculated that 1071 kWh/tCO2 are required to regenerate the sorbent with a 3.5-coefficient-of-performance heat pump. The calculations are based on the assumption that 1 Mtpa DAC plants are to be invested in for 20 years lifespan with a capacty factor of 90% and a discrount rate of 8.5% . 
+Techno-economic properties of DAC technologies are extracted from NASEM (2019) using their high assumption and the energy consumption is assumed following the analysis of Herzog (2022), who calculated that 1071 kWh/tCO<sub>2</sub> are required to regenerate the sorbent with a 3.5-coefficient-of-performance heat pump. The calculations are based on the assumption that 1 Mtpa DAC plants are to be invested in for 20 years lifespan with a capacty factor of 90% and a discrount rate of 8.5% . 
 In the case where variable renewable energy (VRA) powers the DAC plants, additional captial costs equal to $300/kWh (McQueen et al., 2021) are included to reflect the need for batteries:
 
 $$
@@ -17,10 +17,10 @@ $$
 
 Where $T_{ec}$ is the total energy consumption in MWh/tCO2,
 
-The assumed techno-economic parameters are summarized in the following table.
+The assumed techno-economic parameters are summarized in the following table where SNKDACGRD and SNKDACVRA denote respectively DAC units powered with grid electricity and variable renewable electricity
 
 Table 1: Techno-economic properties of DAC in TIAM-FR
-|               |Units|SNKDACSSGRD|SNKDACSSVRA|
+|               |Units|SNKDACGRD|SNKDACVRA|
 |---------------|-----|-----------|-----------|
 |Efficiency     |PJ/kt|     0.0046|     0.0046|
 |Investment cost|M$/kt|      2.099| 2.892     |
@@ -29,7 +29,7 @@ Table 1: Techno-economic properties of DAC in TIAM-FR
 |Lifespan|years|20|20|
 |Discount rate||8.5%|8.5%|
 
-The DAC units generate an certain amount of atmospheric CO2 captured which can be either [utilized](synthetic-fuels.md) or [stored](co2-storage.md). For more details on the techno-economic assumptions, please consult (Desport et al., 2024)
+The DAC units generate an certain amount of atmospheric CO<sub>2</sub> captured which can be either [utilized](synthetic-fuels.md) or [stored](co2-storage.md). For more details on the techno-economic assumptions, please consult (Desport et al., 2024).
 
 ## References
 NASEM, 2019. Negative Emissions Technologies and Reliable Sequestration: A Research Agenda. National Academies Press, Washington, D.C. https://doi.org/10.17226/25259  
