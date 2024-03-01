@@ -9,6 +9,8 @@ CH<sub>4</sub>, and N<sub>2</sub>O). Figure 1 displays a synthetic view of the R
 ![RES](RES.png)
 Fig. 1: Reference Energy System of TIAM-FR
 
+The rest of the sectoral energy system is described in the following subsections.
+
 ```{toctree}
 ---
 titlesonly:
