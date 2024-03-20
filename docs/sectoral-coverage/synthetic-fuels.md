@@ -11,7 +11,7 @@ For routes converting CO<sub>2</sub> into synthetic fuels, several designs are i
 ![CCU designs](CCU-designs.png)
 Fig. 1: Different designs for CO<sub>2</sub> utiliation in TIAM-FR
 
-As it is assumed that 90% of the CO<sub>2</sub> processed is actually converted, residual emissions are accounted for 1% of the CO<sub>2</sub> flow in the case where fossil CO<sub>2</sub> is employed. For processes convertin CO<sub>2</sub> into synthetic fuels, capacity designs are assumed to a commercial capacity of 11.2 PJ/y (Winchester et al., 2013)
+As it is assumed that 90% of the CO<sub>2</sub> processed is actually converted, residual emissions are accounted for 1% of the CO<sub>2</sub> flow in the case where fossil CO<sub>2</sub> is employed. For processes convertin CO<sub>2</sub> into synthetic fuels, capacity designs are assumed to a commercial capacity of 11.2 PJ/y (Winchester et al., 2013). All CO<sub>2</sub> utilization processes are commercially available as of 2030.
 
 ## Hydrogenation
 
@@ -38,7 +38,7 @@ The techno-economic assumptions for CO2 capture can be found in sections related
 
 Besides, methanol turned into gasoline through the so-called Methanol-to-Gasoline (MtG) process for which liquified petroleum gas (LPG) and electricity are co-products. Likewise, the MtG process can employ fossil-based or climate-neutral methanol. The techno-economic assumptions for this process are extrated from Hennig and Haase (2021) and summarized in Table 2:
 
-Tab. 2: Techno-economic properties of Methanol-to-gGasoline in TIAM-FR
+Tab. 2: Techno-economic properties of Methanol-to-Gasoline in TIAM-FR (Henning and Haase, 2021)
 |Properties|Units|Values|
 |----------|-----|------|
 |Gasoline yield|J/J|0.52|
@@ -53,6 +53,25 @@ Tab. 2: Techno-economic properties of Methanol-to-gGasoline in TIAM-FR
 In TIAM-FR, methanol is only modeled as an energy carrier, not as a chemical good. The energy demand for methanol as a chemical is implicitly modeled and included in the overall energy demand of the chemical industry.  
 
 ## Methanation
+Methanation is a process turning CO<sub>2</sub> and H<sub>2</sub> into synthetic CH<sub>4</sub> through the following reaction:
+$$
+CO_2+4H_2↔CH_4 OH+H_2O
+$$
+
+The synthetic methane can be utilized in end-use processes to substitute for natural gas. The techno-economic properties of methanation processes implemented in TIAM-FR are taken from Chauvy et al. (2021) and summarized in Table 3.
+
+Tab. 3: Techno-economic properties of methanation processes in TIAM-FR (Chauvy et al., 2021)
+|Properties|Units|Values|
+|----------|-----|------|
+|CO2 input|kg/GJ|50.5|
+|Hydrogen input|J/J|1.2|
+|Electricity consumption|J/J|0.002|
+|Excess heat|J/J|0.18|
+|CAPEX|$/GW|86.5|
+|Fixed O&M|$/GW|6.5|
+|Availability factor||90%|
+|Life|years|20|
+|Discount rate||8%|
 
 ## Fischer-Tropsch
 
