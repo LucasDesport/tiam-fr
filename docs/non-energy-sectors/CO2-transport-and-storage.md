@@ -1,24 +1,30 @@
 # CO<sub>2</sub> transport and storage
 
-In TIAM-FR, we chose to employ the regional CO2 storage potential used in (Kearns et al., 2017) and in the EPPA model, for two reasons; firstly, it is practical and consistent to run the two models on this common basis; secondly, this is the most recent estimation of CO2 storage potential that is also used in the IEA-ETP energy model (IEA, 2021e). The following paragraphs explain our choice.
-First, CO2 capture opportunities have been added to the model, as discussed in sections 2, 3, 4, 5, and 6, which correspond to new or updated sectors (e.g. cement, hydrogen, etc.) delivering three types of CO2 commodity: fossil, process, or climate-neutral CO2. In Figure 39, they are respectively colored in orange, grey, and green. Dummy processes labeled generically CCSDUM???X  aggregate all captured CO2 types into a single commodity called SNKCO2, as described also in Section 1. We apply a COM_BNDNET constraint on the SNKCO2 commodity, which forces the model to balance the output and input of SNKCO2 to zero (see Section 1). This guarantees that the CO2 is effectively stored whether in an onshore well (SNKON) or offshore well (SNKOFF). Indeed, we decided to aggregate the CO2 storage potential into onshore and offshore options only, without worrying about the type of geophysical well, e.g. saline aquifer, depleted field, etc. This choice stems from the opinions of the experts reviewed, who claim that no one can tell, for now, what type of CO2 storage is statistically cheaper, although they propose different estimations for an average cost of CO2 storage.
-We are now left with only two storage processes: onshore and offshore, in comparison with the ten processes initially present. We left aside the option of considering EOR, as we were discouraged from modeling it for the following reasons:
-	It is difficult to determine both present and future storage potentials. Recent literature does not talk about the amount of CO2 that can be stored in EOR but rather the number of barrels that can be recovered via EOR.
-	The behavior of an EOR field is very case-specific depending on the geology of the well impact key parameters such as:
-	The amount of CO2 that can be injected,
-	The amount of CO2 that remains in storage out of that which rises to the surface with the oil,
-	The achievement of a steady state where CO2 no longer needs to be brought in and the oil is simply recovered by recycling the CO2.
-	Operating costs are also difficult to determine because of the parameters listed above.
-Regarding the transport of CO2, we have two processes for transporting CO2 onshore and offshore, at a cost that are defined by user-designed cost curves, as proposed in the WITCH model (Marcucci et al., 2017). Initially, we aimed to disaggregate the transport on the technological level, i.e., between pipeline and ship. Indeed, the interest of a model from the TIMES family is to be able to differentiate the processes according to their technology in order to better choose them to resolve the problem according to their technical-ecological characteristics. In this case, the following factors differentiate the costs of transporting CO2 by offshore pipeline or ship:
-	The distance covered.
-	The fuel consumption of the ship.
-	The transport capacity (costs are drastically reduced if 2 Mtpa is transported instead of 
-1 Mtpa).
-Therefore, at some point, the model must be able to understand the distance from capture to storage in order to choose between pipeline and ship. However, this requires knowledge of:
-	The offshore storage potentials according to the distance from the coast.
-	The location of the capture sites.
+The regional CO<sub>2</sub> storage potential assumed in TIAM-FR are as Table 1 shows. They correspond to the lower estimate of Kearns et al. (2017).
 
-All of this would be possible if the model was geonormalized, i.e., if it could choose to make investments located at a precise position. This is not the case. We therefore abandoned this idea and simply differentiate the cost difference between onshore and offshore storage, no matter how technically the shipping is achieved. In terms of cost of transport and storage, we use the work of (Smith et al., 2021b) to represent the costs with different assumption levels (high, medium and low). Similar to storage, these are the most recent estimations of CO2 storage costs for global energy models, and also used in the EPPA model.
+Table 1: Assumed regional CO<sub>2</sub> storage potentials in TIAM-FR (Kearns et al., 2017)
+|              |Onshore|Offshore|
+|--------------|-------|--------|
+|AFR           |   1543|    9444|
+|AUS           |   1835|    2349|
+|CAN           |    790|    1445|
+|CHI           |    544|    2286|
+|CSA           |   1660|    4683|
+|EEU           |    495|     565|
+|FSU           |    876|   11207|
+|IND           |    172|     525|
+|JPN           |     34|      26|
+|MEA           |    851|    2603|
+|MEX           |    411|     556|
+|ODA           |   1831|    2058|
+|SKO           |     24|       0|
+|USA           |   1836|    3872|
+|WEU           |    495|     565|
+
+CO<sub>2</sub> capture opportunities are available in TIAM-FR in the [industry sector](industry.md), [hydrogen generation](hydrogen.md), [biofuels generation](biofuels.md), [power generation](power-sector.md), and for [direct air capture](dac.md), thus delivering three types of CO<sub>2</sub> commodity: fossil, process, biogenic or atmospheric. Both biogenic and atmospheric CO<sub>2</sub> are classified as climate-neutral CO<sub>2</sub>. In Figure 1, these commodities are respectively colored in orange, grey, and green. Dummy processes labeled generically with CCSDUM prefix aggregate all captured CO2 types into a single commodity called SNKCO2, as described in the [CO<sub>2</sub> accounting](CO2-accounting.md) section, such that any SNKCO2 generated by the dummy processes has to be eliminated in a SINK process, either onshore  (SINKON) or offshore (SINKOFF).  
+
+
+Regarding the transport of CO<sub>2</sub>, there is actually no process to represent it physically. However, to eliminate the CO2 (SNKCO2), the system must pay for the transport and storage, whose cost are shown in Table 2 and assumed from Smith et al. (2021).  
 To realistically model the operations of CO2 storage, we introduced a constraint on the CO2 injection rate that is consistent with the average injection rates of a well over its economic lifetime. We express this constraint as a ratio of the annual average injection rate to the total capacity of the well:
 ratio of injection rate=(average injection rate [Gt/y ])/(capacity of the well [Gt])
 To calculate this ratio, we used the data published by (Jahediesfanjani et al., 2018) that estimated the injection rate per well and basin, along with their storage capacity. This results in a ratio equal to 2.6% which was used as an ACT_BND constraint to the SINK processes in order to limit their annual operation with an acceptable injection rate.
