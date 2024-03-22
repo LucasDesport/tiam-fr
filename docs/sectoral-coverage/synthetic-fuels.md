@@ -34,7 +34,7 @@ Tab. 1: Techno-economic properties of the hydrogenation process in TIAM-FR
 |Life|years|20|
 |Discount rate||8%|
 
-The techno-economic assumptions for CO2 capture can be found in sections related to [the power sector](power-sector.md), [biofuels](biofuels.md), [industry](industry.md), and [direct air capture](dac.md). The techno-economic assumptions for hydrogen supply can be found [here](hydrogen.md).  
+The techno-economic assumptions for CO<sub>2</sub> capture can be found in sections related to [the power sector](power-sector.md), [biofuels](biofuels.md), [industry](industry.md), and [direct air capture](dac.md). The techno-economic assumptions for hydrogen supply can be found [here](hydrogen.md).  
 
 Besides, methanol turned into gasoline through the so-called Methanol-to-Gasoline (MtG) process for which liquified petroleum gas (LPG) and electricity are co-products. Likewise, the MtG process can employ fossil-based or climate-neutral methanol. The techno-economic assumptions for this process are extrated from Hennig and Haase (2021) and summarized in Table 2:
 
@@ -75,7 +75,31 @@ Tab. 3: Techno-economic properties of methanation processes in TIAM-FR (Chauvy e
 
 ## Fischer-Tropsch
 
+The Fischer-Tropsch reaction consists in processing CO<sub>2</sub> with hydrogen in the presence of a catalyst at temperatures between 150-200°C to generate a slate of liquid hydrocarbons, generally diesel, gasoline, and kerosene. The generation shares depend on the catalyst employed. In TIAM-FR, the Fischer-Tropsch processes implemented follow the assumptions of Zang et al. (2021), as Table 4 summarizes.
+
+Tab. 3: Techno-economic properties of Fischer-Tropsch processes in TIAM-FR (Zang et al., 2021)
+|Properties|Units|Values|
+|----------|-----|------|
+|CO2 input|kg/GJ|50.5|
+|Hydrogen input|J/J|1.2|
+|Electricity consumption|J/J|0.002|
+|Excess heat|J/J|0.18|
+|CAPEX|$/GW|86.5|
+|Fixed O&M|$/GW|6.5|
+|Availability factor||90%|
+|Life|years|20|
+|Discount rate||8%|
+
+The synthetic liquids supply all sectors of the economy, just like conventional fossil fuels, thus assuming for instance that synthetic kerosene is a perfect subsitute for conventional jet fuels, which is yet to be proven technically.
+
 ## Mineralization
+
+Two mineralization options are available in TIAM-FR, the mineralization of steel slags and pulverized fly ashes.
+
+### Mineralization of steel slags
+
+### Mineralization of pulverized fly ashes
+
 
 ## References
 
