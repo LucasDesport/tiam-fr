@@ -14,17 +14,16 @@ TIAM-FR documentation
    spatial-representation/index
    time-representation/index
    demands/index
-   optimization/index
-   sectoral-coverage/index
-   non-energy-sectors/index
+   resources/index
+   energy-sectors/index
    trades/index
+   non-energy-sectors/index
+   backstop/index
+   water/index
+   minerals/index
    scenarios/index
    references/index
    
-
-   
-
-
 
 .. Indices and tables
    ==================
