@@ -15,8 +15,8 @@ TIAM-FR documentation
    time-representation/index
    demands/index
    resources/index
-   energy-sectors/index
    trades/index
+   energy-sectors/index
    non-energy-sectors/index
    backstop/index
    water/index
