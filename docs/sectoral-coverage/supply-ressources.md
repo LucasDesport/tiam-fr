@@ -1,1 +1,0 @@
-# Energy supply and resources
