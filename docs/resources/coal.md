@@ -1,6 +1,6 @@
 # Coal resources
 
-In TIAM-FR, coal resources are disaggregated into two commodiy types, namely brown coal and hard coal, as specified in the Internation Energy Agency (IEA) Energy Balance. Brown coal and hardcoal are distinguished by their calorific value, ash content, and moisture content. The estimated coal potentials found in (Pye et al., 2020) do not make this disinction and deliver an aggregate potential across regions. In order to allocate coal ressources to the type of coal, we assume that those are split according to the share initially implemented in ETSAP-TIAM (Loulou, 2007) between brown coal and hardcoal (Table 1).
+In TIAM-FR, coal resources are disaggregated into two commodiy types, namely brown coal and hard coal, as specified in the Internation Energy Agency (IEA) Energy Balance (IEA, 2020). Brown coal and hardcoal are distinguished by their calorific value, ash content, and moisture content. The estimated coal potentials found in (Pye et al., 2020) do not make this disinction and deliver an aggregate potential across regions. In order to allocate coal ressources to the type of coal, we assume that those are split according to the share initially implemented in ETSAP-TIAM (Loulou and Labriet, 2008) between brown coal and hardcoal (Table 1).
 
 Table 1: Assumed shares between brown and hard coal resources
 |Resource|AFR|AUS|CAN|CHI|CSA|EEU|FSY|IND|JPN|MEA|MEX|ODA|SKO|USA|WEU|
@@ -56,3 +56,9 @@ Table 4: Cost of coal extraction \[$/GJ\] across regions to be associated to the
 | 11   | 8,04 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00  | 0,00  | 0,00 | 0,00 | 0,00  | 0,00 | 8,76 |
 
 To reflect that the declared resources are not entirely accessible right off the bat, it is assume that 10% of the resources of each step can be extracted annually.
+
+# Reference
+
+IEA, 2020. World Energy Balances - Data product [WWW Document]. IEA. URL https://www.iea.org/data-and-statistics/data-product/world-energy-balances (accessed 11.16.22).
+Pye, S., Bradley, S., Hughes, N., Price, J., Welsby, D., Ekins, P., 2020. An equitable redistribution of unburnable carbon. Nat Commun 11, 3968. https://doi.org/10.1038/s41467-020-17679-3
+Loulou, R., Labriet, M., 2008. ETSAP-TIAM: the TIMES integrated assessment model Part I: Model structure. CMS 5, 7–40. https://doi.org/10.1007/s10287-007-0046-z
