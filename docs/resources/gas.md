@@ -1,6 +1,6 @@
 # Gas resources
 
-In TIAM-FR, gas resources and extraction costs are extracted from the cost cruves found in (Pye et al., 2020). To reflect that the declared resources are not entirely accessible right off the bat, it is assume that 10% of the resources of each step can be extracted annually.
+In TIAM-FR, gas resources and extraction costs are extracted from the cost cruves found in (Pye et al., 2020). To reflect that the declared resources are not entirely accessible right off the bat, it is assumed that 10% of the resources of each step can be extracted annually at best.
 
 Table 1: Assumed brown coal resources \[EJ\] across regions. Steps refer to cost assumptions located in Table 2
 | step | AFR | AUS | CAN | CHI | CSA | EEU | FSU | IND | JPN | MEA | MEX | ODA | SKO | USA | WEU |
