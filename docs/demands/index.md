@@ -1,6 +1,55 @@
 # Demands
 
-As TIAM-FR operates as a partial-equilibrium model, it requires a baseline energy service demand level for all energy services considered. [Sectoral coverage](../energy-sectors/index.md) presents a comprehensive list of energy-service demands for every sector. Each energy-service demand is associated with a specific driver, facilitating the projection of future demand throughout the model horizon (2005 to 2100). These drivers are linked to the energy-service demands through a constant and an elasticity, following equation (1).
+As TIAM-FR operates as a partial-equilibrium model, it requires a baseline energy service demand level for all energy services considered. Table 1 presents a comprehensive list of energy-service demands for every sector with their description, unit and time representation, i.e. either annually, seasonnaly, or hourly satisfied (Daynite). Each energy-service demand is associated with a specific driver (see last column of Table 1), facilitating the projection of future demand throughout the model horizon (2018 to 2100).
+
+Table 1: List of energy and material demands in TIAM-FR
+| Demand | Description                     | Unit  | TimeSlice | Driver |
+| ------ | ------------------------------- | ----- | --------- | ------ |
+| NEU    | Non Energy Uses                 | PJ    | Annual    | GDPP   |
+| TAD    | Domestic Aviation               | PJ    | Annual    | GDP    |
+| TAI    | International Aviation          | PJ    | Annual    | GDP    |
+| TRB    | Road Bus                        | Bv-km | Daynite   | POP    |
+| TRC    | Road Commercial Trucks          | Bv-km | Daynite   | GDP    |
+| TRE    | Road Three Wheels               | Bv-km | Daynite   | POP    |
+| TRH    | Road Heavy Trucks               | Bv-km | Daynite   | GDP    |
+| TRL    | Road Light Vehicle              | Bv-km | Daynite   | GDP    |
+| TRM    | Road Medium Trucks              | Bv-km | Daynite   | GDP    |
+| TRT    | Road Auto                       | Bv-km | Daynite   | GDPP   |
+| TRW    | Road Two Wheels                 | Bv-km | Daynite   | POP    |
+| TTF    | Rail-Freight                    | PJ    | Daynite   | GDP    |
+| TTP    | Rail-Passengers                 | PJ    | Annual    | POP    |
+| TWD    | Domestic Internal Navigation    | PJ    | Annual    | GDP    |
+| TWI    | International Navigation        | PJ    | Annual    | GDP    |
+| AGR    | Agriculture Demand              | PJ    | Annual    | GDPP   |
+| CSC    | Commercial Space Cooling        | PJ    | Daynite   | GDPP   |
+| CCK    | Commercial Cooking              | PJ    | Daynite   | GDPP   |
+| CSH    | Commercial Space Heating        | PJ    | Season    | GDPP   |
+| CHW    | Commercial Hot Water            | PJ    | Daynite   | GDPP   |
+| CLA    | Commercial Lighting             | PJ    | Daynite   | GDPP   |
+| COE    | Commercial Office Equipment     | PJ    | Daynite   | GDPP   |
+| CRF    | Commercial Refrigeration        | PJ    | Daynite   | GDPP   |
+| COT    | Commercial Other                | PJ    | Daynite   | GDPP   |
+| RSC    | Residential Space Cooling       | PJ    | Daynite   | HOU    |
+| RCD    | Residential Clothes Drying      | PJ    | Daynite   | HOU    |
+| RCW    | Residential Clothes Washing     | PJ    | Daynite   | HOU    |
+| RDW    | Residential Dishwashing         | PJ    | Daynite   | HOU    |
+| REA    | Residential Other  Electric     | PJ    | Daynite   | HOU    |
+| RSH    | Residential Space Heating       | PJ    | Season    | HOU    |
+| RHW    | Residential Hot Water           | PJ    | Daynite   | POP    |
+| RCK    | Residential Cooking             | PJ    | Daynite   | POP    |
+| RLI    | Residential Lighting            | PJ    | Daynite   | GDPP   |
+| RRF    | Residential Refrigeration       | PJ    | Daynite   | HOU    |
+| ROT    | Residential Other               | PJ    | Daynite   | HOU    |
+| ICH    | Industry Chemicals              | PJ    | Annual    | GDPP   |
+| IIS    | Industry Iron & Steel           | mt    | Annual    | GDPP   |
+| ILP    | Industry Pulp & Paper           | mt    | Annual    | GDPP   |
+| INF    | Industry Non-Ferrous            | mt    | Annual    | GDPP   |
+| INM    | Industry Non-Metals             | mt    | Annual    | GDPP   |
+| IOI    | Industry Other Industry         | PJ    | Annual    | GDPP   |
+| ICH_FS | Industry Chemicals Feedstocks   | PJ    | Annual    | GDPP   |
+| ONO    | Other Non-Specified Consumption | PJ    | Annual    | GDPP   |
+
+These drivers are linked to the energy-service demands through a constant and an elasticity, following equation (1).
 
 $$
 Demand_{t}=\ Demand_{t-1} \times driver^{elasticity} \tag{1}
