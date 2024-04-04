@@ -11,7 +11,7 @@ The industry sector englobes several industries:
 In TIAM-FR, the [cement](cement.md) industry and the [iron & steel](iron-steel.md) industry are represented explicitly (Desport, 2023) while the rest of the industry follows a generic bottom-up description of industrial energy-service demands including process heat, steam, machinery, feedstocks, electricity, and others, as described in (Fais et al., 2019) and Figure 1. The reciepe shows in the figure below features different energy shares between energy services depending on the region and the industrial good manufactured. These shares and net amount are captured by the IEA energy balance (2020) and implemented in TIAM-FR for the base-year.
 
 Figure 1: The reciepe for producing industrial goods in TIAM-FR
-![](industry-energy-services.md)
+![](industry-energy-services.png)
 
 The model chooses which energy are the most competitive to deliver these energy demands, and it is possible to invest in new, more efficient industrial assets to improve the performance of the industry. The techno-economic assumptions for these processes are given in Table 1.
 
