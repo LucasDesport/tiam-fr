@@ -18,6 +18,7 @@ The model chooses which energy are the most competitive to deliver these energy 
 Table 1: Techno-economic properties of industrial energy-service processes in TIAM-FR
 | Sector         | Energy service | Energy                  | Innovation            | CAPEX  | FIXOM | VAROM | Efficiency | Market share | Avaialbility factor |
 | -------------- | -------------- | ----------------------- | --------------------- | ------ | ----- | ----- | ---------- | ------------ | ------------------- |
+| Unit           |                |                         |                       | $/GJ   | $/GJ  | $/GJ  | GJ/GJ      | %            | %                   |
 | Chemicals      | Electrical     | Electricity             | Existing technologies | 12,50  | 0,70  | 0     | 0,91       | 0,99         | 0,80                |
 | Chemicals      | Electrical     | Electricity             | New technologies      | 11,00  | 0,90  | 0     | 0,91       | 0            | 0,80                |
 | Chemicals      | Feedstocks     | Asphalt                 | Existing technologies | 0      | 0     | 0     | 1,00       | 0,00         | 1,00                |
