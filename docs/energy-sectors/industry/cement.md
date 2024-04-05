@@ -1,6 +1,6 @@
 # Cement
 
-The representation of cement production in TIAM-FR is - with iron and steel - more complex than the res of the industry.  
+The representation of cement production in TIAM-FR is - with [iron and steel](iron-steel.md) - more complex than the rest of the industry.  
 Figure 1 represents the modeling of the cement industry in TIAM-FR, from energy commodities inputs to cement demand. The cement industry is disaggregated into four steps. The first one computes the optimal fuel mix to feed cement plants, considering substitution rates detailed the subsequent section. The second one processes energy and limestone to produce clinker, that is processed in the third step with other aggregates to produce cement. For the base year, the global cement industry is represented according to IEA’s energy balances (IEA, 2020a) for energy flows and cement demand. Regarding the clinker-to-cement ratio, several references listed in Table 1 are used to calculate the statistic energy efficiency of the existing assets (INMCEMPLA00) in 2018. The shares of aggregates (fly ash blast furnace slags, limestone, and gypsum) are assumed proportionally distributed across regions compared to the global average (IEA, 2020b). Due to lack of data, the material efficiency, the operational cost, and the fixed cost are set for every region to 1.26 tlimestone/tclinker, \$ 21.9 /tclinker, 1.29 \$/tclinker (Griffin et al., 2013), but regional costs of limestone are taken from (Ferrari et al., 2019).
 
 ![](cement.png)
