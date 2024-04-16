@@ -6,7 +6,7 @@ The energy consumption of the iron and steel industry in 2018 is based on the IE
 
 In addition to conventional technologies presented in the previous section, TIAM-FR is features with alternative innovative technologies including electricity-based processes, carbon capture processes, direct reduction of iron, and other innovative technologies listed in Table.
 
-[](IISRES.png)
+[](IISRES_final.png)
 
 ## Biomass use
 
