@@ -1,12 +1,12 @@
 # Iron & Steel
 
-The energy consumption of the iron and steel industry in 2018 is based on the IEA energy balance (IEA 2020). The
+The energy consumption of the iron and steel industry in 2018 is based on the IEA energy balance (IEA 2020). The process of the iron and steel industry consists of extracting iron ore and recycling steel scrap to produce cast iron which is turned into finished steel to be commercialized. The energy and materials required to transform iron ore into steel depends on the process involved. For example, BF-BOF processes require oxygen, limestone, coke, coal and other dense energies to bring the process to a high temperature. Electric arc furnaces (EAF) require oxygen, limestone, electricity and steel scrap. Figure 1 simplifies the flows between primary energy (fossil fuels, biogenic fuels, electricity, hydrogen, heat), secondary energy and fuel mixes, primary materials (limestone, iron ore, fine ore, quicklime), secondary materials (oxygen, sinter, pellets), base-year technologies (BF-BOF, EAF, Direct Reduction of Iron (DRI)), innovative technologies (see Section [Innovative technologies](Innovative technologies), CO<sub>2</sub> emissions, CO<sub>2</sub> capture utilization and storage (CCUS), and finished products.
 
 ## Innovative technologies
 
-In addition to conventional technologies presented in the previous section, TIAM-FR is features with alternative innovative technologies including electricity-based processes, carbon capture processes, direct reduction of iron, and other innovative technologies listed in Table.
+In addition to conventional technologies presented in the previous section, TIAM-FR is features with alternative  technologies including electricity-based processes, carbon capture processes, direct reduction of iron, and other innovative technologies embodied in groups featured in Figure 1.
 
-![](IISRES_final.png)
+![](basic_IISRES.png)
 
 ## Biomass use
 
