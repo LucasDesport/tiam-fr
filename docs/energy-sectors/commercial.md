@@ -20,3 +20,4 @@ Various energies can satisfy the commercial cooking demand: diesel, kerosone, li
 [Synthetic fuels](synthetic-fuels.md) made out of low-carbon [hydrogen](hydrogen.md) and [renewable carbon](CO2-accounting.md) (atmospheric or biogenic) can supply the processes consuming oil or gas making the use of rather traditional processes less CO<sub>2</sub> intensive. Hydrogen is not considered as an alternative fuel for this sector.
 
 ## References
+IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
