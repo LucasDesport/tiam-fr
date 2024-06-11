@@ -9,8 +9,8 @@ Figure 1: Seasonal, time-slice commercial energy demands in TIAM-FR across regio
 Figure 2: Seasonal, time-slice space heating energy demand in TIAM-FR across regions
 ![](space_heating_comfr.png)
 
-Commercial energy demands can be satisfied by multiple technologies including heat pumps, and processed with numerous energies including gas, coal, electricity, bioenergy, and oil products.
-
 ## Technologies and energies to decarbonize the commercial sector
+
+Commercial energy demands can be satisfied by multiple technologies including heat pumps, and processed with numerous energies including gas, coal, electricity, bioenergy, and oil products.
 
 ## References
