@@ -11,6 +11,7 @@ Figure 2: Seasonal, time-slice space heating energy demand in TIAM-FR across reg
 
 ## Technologies and energies to decarbonize the commercial sector
 
-Commercial energy demands can be satisfied by multiple technologies including heat pumps, and processed with numerous energies including gas, coal, electricity, bioenergy, and oil products.
+Commercial demand for lighting can be satisfied mostly by electricity through mercury lamps, incandescent lamps, halogen lamps, and different types of fluorescent lamps. Another traditional option is to use kerosene for lighting.  
+For 
 
 ## References
