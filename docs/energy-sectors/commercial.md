@@ -9,7 +9,7 @@ Figure 1: Seasonal, time-slice commercial energy demands in TIAM-FR across regio
 Figure 2: Seasonal, time-slice space heating energy demand in TIAM-FR across regions
 ![](space_heating_comfr.png)
 
-## Technologies and energy carriers to decarbonize the commercial sector
+## Technologies and energy carriers
 
 Commercial demand for lighting can be satisfied mostly by electricity through mercury lamps, incandescent lamps, halogen lamps, and different types of fluorescent lamps. Another traditional option is to use kerosene for lighting.
 The main energy demand in the commercial sector is for heat supply or cooling depending on the region. For heating, there are numerous technologies including conventional electric resistances, as well as burners and boilers powered with oil, gas, coal or bioenegry. Alternative technologies include air-to-air and ground-to-air heat pumps, powered with grid electricity.  
