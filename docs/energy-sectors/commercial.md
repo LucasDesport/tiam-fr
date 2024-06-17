@@ -1,6 +1,6 @@
 # Commercial
 
-The commercial sector encompasses seven [energy demands](demands/index.md) including space heating (CSC), space cooling (CSH), cooking (CCK), water heating (CHW), lighting (CLA), office equipments (COE), and other demands (COE). For each demand, the energy consumption in the base year is calibrated based on IEA energy balances (2020).The technologies and energies available in future years to satisfy energy demands are described in the following subsections.
+The commercial sector encompasses seven [energy demands](demands/index.md) including space heating (CSH), space cooling (CSC), cooking (CCK), water heating (CHW), lighting (CLA), office equipments (COE), and other demands (COE). For each demand, the energy consumption in the base year is calibrated based on IEA energy balances (2020).The technologies and energies available in future years to satisfy energy demands are described in the following subsections.
 The demand for commercial energy services varies according to the period of the year (Figure 1) and space heating behaves slightly differently from the rest of commercial enegry demands (Figure 2).
 
 Figure 1: Seasonal, time-slice commercial energy demands in TIAM-FR across regions
