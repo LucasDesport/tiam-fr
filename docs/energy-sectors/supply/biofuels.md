@@ -1,10 +1,10 @@
 # Biofuels
 
-Biofuels denote end-use fuels made out of a transformed [biomass](..\ resources\biomass.md) products. In TIAM-FR, biofuels encompass biodiesel, bioethanol, biogasoline, biogas, biomethane, and biochar. Two main references were used here, that is, a report by (IEAGHG, 2021b), on which most of the data is based, and a report by (IEA Bioenergy, 2019), which gives information on second-generation fermentation processes (without CCS). Table 1 and Table 2 display the technoeconomic charactéristics of the processes considered in TIAM-FR.
+Biofuels denote end-use fuels made out of transformed [biomass](..\ resources\biomass.md) products. In TIAM-FR, biofuels encompass biodiesel, bioethanol, biogasoline, biogas, biomethane, and biochar. Two main references are used here, that is, a report by (IEAGHG, 2021b), on which most of the data is based, and a report by (IEA Bioenergy, 2019), which gives information on second-generation fermentation processes (without CCS). Table 1 and Table 2 display the technoeconomic characteristics of the processes biodiesel and bioethanol in TIAM-FR.
 
-The new processes implemented can be divided into two categories: biodiesel refineries and bioethanol refineries, fed with different types of biomass, whose global potentials and harvesting costs were established by (Kang, 2017). The biodiesel plants either work with a fast pyrolysis (FP) process or a Fischer-Tropsch (FT) process. In the cases when a CO2 capture unit is set up, the efficiency can be improved to its maximum, hence the specification in the first columns of Table 28 and Table 29.
+The new processes implemented can be divided into two categories: biodiesel refineries and bioethanol refineries, fed with different types of biomass, whose global potentials and harvesting costs were established by (Kang, 2017). The biodiesel plants either work with a fast pyrolysis (FP) process or a Fischer-Tropsch (FT) process. In the cases when a CO<sub>2</sub> capture unit is set up, the efficiency can be improved to its maximum (see MAX label), hence the specification in the first columns of Table 2.
 
-Table 1: Technological characteristics of biorefineries. All values are displayed per PJ of output biofuel
+Table 1: Technological characteristics of biorefineries generating biodiesel and bioethanol. All values are displayed per PJ of output biofuel
 | **Row Labels**                                                          | **CO2 capture [kt]** | **Wheat [PJ]** | **Maize [PJ]** | **Crop starch [PJ]** | **Wood [PJ]** | **Logging residues [PJ]** | **Electricity [PJ]** | **Gas [PJ]** |
 | ----------------------------------------------------------------------- | ----------- | --------- | --------- | --------------- | -------- | -------------------- | --------------- | ------- |
 | **First generation biodiesel plant (FP)**                               |             |           |           |                 | 1.77     |                      |                 |         |
@@ -20,7 +20,7 @@ Table 1: Technological characteristics of biorefineries. All values are displaye
 | **Second generation bioethanol plants with** **CO2** **capture**        | 37          | 3.34      |           |                 |          |                      |                 |         |
 | **Second generation bioethanol plant with** **CO2** **capture (MAX)**   | 276         | 3.34      |           |                 |          |                      |                 |         |
 
-Table 2: Economic characteristics of biorefineries.
+Table 2: Economic characteristics of biorefineries generating biodiesel and bioethanol.
 | **Process**                                                         | **Capital cost [$/GJ]** | **Fixed O&M [$/GJ]** | **Variable O&M [$/GJ]** | **Lifetime [years]** |
 | ------------------------------------------------------------------- | ---------------- | ------------- | ---------------- | ------------ |
 | **First generation biodiesel plant (FP)**                           | 32.89            |               | 1,35             | 25           |
