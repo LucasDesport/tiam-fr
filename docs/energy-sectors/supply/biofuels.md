@@ -33,8 +33,8 @@ Table 2: Economic characteristics of biorefineries generating biodiesel and bioe
 | **Second generation biodiesel plant with** **CO2** **capture (FT)** | 256.81           |               | 10.29            | 20           |
 | **Second generation biodiesel plant with** **CO2** **capture (FT)** | 268.35           |               | 10.7             | 20           |
 | **First generation bioethanol pant with** **CO2** **capture**       | 16.74            |               | 0.67             | 20           |
-| **Second generation bioethanol plants with** **CO2** **capture**    | 150.05           |               | 6                | 20           |
-| **Second generation bioethanol plant with** **CO2** **capture**     | 197.37           |               | 7.88             | 20           |
+| **Second generation bioethanol plant with** **CO2** **capture**     | 150.05           |               | 6                | 20           |
+| **Second generation bioethanol plant with** **CO2** **capture (MAX)**    | 197.37           |               | 7.88             | 20           |
 
 # References
 
