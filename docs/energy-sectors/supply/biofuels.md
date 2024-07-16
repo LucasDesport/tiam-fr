@@ -5,7 +5,7 @@ Biofuels denote end-use fuels made out of transformed [biomass](..\ resources\bi
 The new processes implemented can be divided into two categories: biodiesel refineries and bioethanol refineries, fed with different types of biomass, whose global potentials and harvesting costs were established by (Kang, 2017). The biodiesel plants either work with a fast pyrolysis (FP) process or a Fischer-Tropsch (FT) process. In the cases when a CO<sub>2</sub> capture unit is set up, the efficiency can be improved to its maximum (see MAX label), hence the specification in the first columns of Table 2.
 
 Table 1: Technological characteristics of biorefineries generating biodiesel and bioethanol. All values are displayed per PJ of output biofuel
-| **Row Labels**                                                          | **CO2 capture [kt]** | **Wheat [PJ]** | **Maize [PJ]** | **Crop starch [PJ]** | **Wood [PJ]** | **Logging residues [PJ]** | **Electricity [PJ]** | **Gas [PJ]** |
+| **Row Labels**                                                          | **CO<sub>2</sub> capture [kt]** | **Wheat [PJ]** | **Maize [PJ]** | **Crop starch [PJ]** | **Wood [PJ]** | **Logging residues [PJ]** | **Electricity [PJ]** | **Gas [PJ]** |
 | ----------------------------------------------------------------------- | ----------- | --------- | --------- | --------------- | -------- | -------------------- | --------------- | ------- |
 | **First generation biodiesel plant (FP)**                               |             |           |           |                 | 1.77     |                      |                 |         |
 | **Second generation biodiesel plant (FT)**                              |             |           |           |                 | 2.28     |                      |                 |         |
@@ -13,12 +13,12 @@ Table 1: Technological characteristics of biorefineries generating biodiesel and
 | **Second generation bioethanol plant (cellulosic)**                     |             |           |           |                 |          | 2.87                 |                 |         |
 | **Second generation bioethanol plant (corn stover)**                    |             |           | 0.35      |                 |          |                      | 0.11            | 0.74    |
 | **Second generation bioethanol plant (wheat straw)**                    |             | 3.34      |           |                 |          |                      |                 |         |
-| **Second generation biodiesel plant with** **CO2** **capture (FP)**     | 63          |           |           |                 | 1.71     |                      |                 |         |
-| **Second generation biodiesel plant with** **CO2** **capture (FT)**     | 122         |           |           |                 | 2.28     |                      |                 |         |
-| **Second generation biodiesel plant with** **CO2** **capture (FT-MAX)** | 151         |           |           |                 | 2.28     |                      |                 |         |
-| **First generation bioethanol pant with** **CO2** **capture**           | 37          |           |           | 1.71            |          |                      | 0.05            | 0.4     |
-| **Second generation bioethanol plants with** **CO2** **capture**        | 37          | 3.34      |           |                 |          |                      |                 |         |
-| **Second generation bioethanol plant with** **CO2** **capture (MAX)**   | 276         | 3.34      |           |                 |          |                      |                 |         |
+| **Second generation biodiesel plant with** **CO<sub>2</sub>** **capture (FP)**     | 63          |           |           |                 | 1.71     |                      |                 |         |
+| **Second generation biodiesel plant with** **CO<sub>2</sub>** **capture (FT)**     | 122         |           |           |                 | 2.28     |                      |                 |         |
+| **Second generation biodiesel plant with** **CO<sub>2</sub>** **capture (FT-MAX)** | 151         |           |           |                 | 2.28     |                      |                 |         |
+| **First generation bioethanol pant with** **CO<sub>2</sub>** **capture**           | 37          |           |           | 1.71            |          |                      | 0.05            | 0.4     |
+| **Second generation bioethanol plants with** **CO<sub>2</sub>** **capture**        | 37          | 3.34      |           |                 |          |                      |                 |         |
+| **Second generation bioethanol plant with** **CO<sub>2</sub>** **capture (MAX)**   | 276         | 3.34      |           |                 |          |                      |                 |         |
 
 Table 2: Economic characteristics of biorefineries generating biodiesel and bioethanol.
 | **Process**                                                         | **Capital cost [$/GJ]** | **Fixed O&M [$/GJ]** | **Variable O&M [$/GJ]** | **Lifetime [years]** |
@@ -29,12 +29,12 @@ Table 2: Economic characteristics of biorefineries generating biodiesel and bioe
 | **Second generation bioethanol plant (cellulosic)**                 | 48               | 3.07          |                  | 25           |
 | **Second generation bioethanol plant (corn stover)**                | 83.25            | 1.46          |                  | 25           |
 | **Second generation bioethanol plant (wheat straw)**                | 148.89           |               | 5.94             | 20           |
-| **Second generation biodiesel plant with** **CO2** **capture (FP)** | 52.52            |               | 2.12             | 20           |
-| **Second generation biodiesel plant with** **CO2** **capture (FT)** | 256.81           |               | 10.29            | 20           |
-| **Second generation biodiesel plant with** **CO2** **capture (FT)** | 268.35           |               | 10.7             | 20           |
-| **First generation bioethanol pant with** **CO2** **capture**       | 16.74            |               | 0.67             | 20           |
-| **Second generation bioethanol plant with** **CO2** **capture**     | 150.05           |               | 6                | 20           |
-| **Second generation bioethanol plant with** **CO2** **capture (MAX)**    | 197.37           |               | 7.88             | 20           |
+| **Second generation biodiesel plant with** **CO<sub>2</sub>** **capture (FP)** | 52.52            |               | 2.12             | 20           |
+| **Second generation biodiesel plant with** **CO<sub>2</sub>** **capture (FT)** | 256.81           |               | 10.29            | 20           |
+| **Second generation biodiesel plant with** **CO<sub>2</sub>** **capture (FT)** | 268.35           |               | 10.7             | 20           |
+| **First generation bioethanol pant with** **CO<sub>2</sub>** **capture**       | 16.74            |               | 0.67             | 20           |
+| **Second generation bioethanol plant with** **CO<sub>2</sub>** **capture**     | 150.05           |               | 6                | 20           |
+| **Second generation bioethanol plant with** **CO<sub>2</sub>** **capture (MAX)**    | 197.37           |               | 7.88             | 20           |
 
 # References
 
