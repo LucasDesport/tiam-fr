@@ -4,6 +4,8 @@ The transport sector can be categorized based on energy demands into four segmen
 
 ## Aviation
 
+The international and domestic energy demands for aviation include heavy fuel oil, diesel and jet fuels, but a tiny part of the domestic one can be satisfied by gasoline based on (IEA, 2020).
+
 ## Navigation
 
 ## Road
