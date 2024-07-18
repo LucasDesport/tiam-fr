@@ -1,12 +1,16 @@
 # Transport
 
-The transport sector can be categorized based on energy demands into four segments: road, rail, water, and air. Each segment is divided into specific energy demands whose value are [extrapolated based on Shared Socio-economic Pathways (SSP)](../demands/index.md) (Riahi, 2017). These demands are satisfied by various fuels combined and assembled through so-called *FuelTechs* designed to represent realistic energy supply for each category. The following subsections detials the topology and assumptions for satisfying and decarbonizing transport energy demands.
+The transport sector can be categorized based on energy demands into four segments: road, rail, water, and air. Each segment is divided into specific energy demands whose value are [extrapolated based on Shared Socio-economic Pathways (SSP)](../demands/index.md) (Riahi, 2017). These demands are satisfied by various fuels combined and assembled through so-called *FuelTechs* designed to represent realistic energy supply for each category. The intial shares for supply energy demands are extracted from based on (IEA, 2020). The following subsections detials the topology and assumptions for satisfying and decarbonizing transport energy demands.
 
 ## Aviation
 
-The international and domestic energy demands for aviation include heavy fuel oil, diesel and jet fuels, but a tiny part of the domestic one can be satisfied by gasoline based on (IEA, 2020).
+As shown in Figure 1, the international and domestic energy demands for aviation include heavy fuel oil, diesel and jet fuels, gasoline, but according to (IEA, 2020) jet fuel make almost 100% energy input shares. Both can be decarbonized by synthetic fuels but biofuels are not considered.
+
+![](Transport_TAI_TAD.png)
 
 ## Navigation
+
+As shown in Figure 1, the international and domestic energy demands for maritime transport include heavy fuel oil, diesel, kerosen, gasoline, . Both can be decarbonized by synthetic fuels but biofuels are not considered.
 
 ## Road
 
