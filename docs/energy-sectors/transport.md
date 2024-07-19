@@ -10,9 +10,13 @@ As shown in Figure 1, the international and domestic energy demands for aviation
 
 ## Navigation
 
-As shown in Figure 1, the international and domestic energy demands for maritime transport include heavy fuel oil, diesel, kerosen, gasoline, . Both can be decarbonized by synthetic fuels but biofuels are not considered.
+As shown in Figure 2, the international and domestic energy demands for maritime transport include heavy fuel oil, diesel, kerosene, gasoline. Both can be decarbonized by synthetic fuels and biodiesel in modern fleet.
+
+![](Transport_TWI_TWD.png)
 
 ## Road
+
+The demand for transport road is split into different vehicle-based categories. 
 
 ## Rail
 
