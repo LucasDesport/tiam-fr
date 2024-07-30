@@ -4,10 +4,23 @@ In TIAM-FR, the emissions represented are carbon dioxide (CO<sub>2</sub>), metha
 
 ## Fossil fuel extraction
 
+Emissions due to the extraction of fossil fuel are taken into account through emissions factors calibrated on the amount of fossil fuel extracted.
+
+Table 1: Emissions factors due to fossil fuel extraction
+| Case            | Emission | AFR  | AUS  | CAN  | CHI  | CSA  | EEU  | FSU  | IND  | JPN  | MEA  | MEX  | ODA  | SKO  | USA  | WEU  |
+| --------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Gas extraction  | CO<sub>2</sub>      | 0,87 | 0,87 | 7,27 | 3,00 | 2,15 | 1,71 | 0,75 | 0,68 | 2,44 | 0,89 | 3,75 | 2,15 | 0,22 | 1,96 | 2,10 |
+| Oil extraction  | CO<sub>2</sub>      | 0,87 | 0,87 | 7,27 | 3,00 | 2,15 | 1,71 | 0,75 | 0,68 | 2,44 | 0,89 | 3,75 | 2,15 | 0,22 | 1,96 | 2,10 |
+| Coal extraction | CO<sub>2</sub>      | 4,29 | 4,28 | 3,55 | 3,41 | 2,33 | 2,33 | 1,87 | 1,24 | 1,20 | 1,20 | 1,20 | 1,20 | 1,20 | 0,29 | 0,06 |
+| Gas extraction  | CH<sub>4</sub>      | 48   | 2    | 219  | 24   | 277  | 1221 | 568  | 546  | 301  | 19   | 484  | 103  | 199  | 176  | 149  |
+| Oil extraction  | CH<sub>4</sub>      | 56   | 9    | 146  | 28   | 18   | 2    | 19   | 4    | 0    | 20   | 20   | 8    | 0    | 29   | 5    |
+| Coal extraction | CH<sub>4</sub>      | 69   | 90   | 36   | 116  | 114  | 300  | 317  | 45   | 1    | 127  | 340  | 128  | 1397 | 130  | 390  |
+
 ## Fossil fuel combustion emissions
 
-Combustion emissions concern CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O. Table 1 reports CO<sub>2</sub> emissions factor based on (EIA, 2022)
+Combustion emissions concern CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O. Table 2 reports CO<sub>2</sub> emissions factor based on (EIA, 2022)
 
+Table 2: Emissions factors due to fossil fuel combustion
 | Fossil fuel | CO<sub>2</sub> emissions [kgCO<sub>2</sub>/MJ] |
 | ------------| ------------------------ | 
 | Brown coal  | 98                       | 
@@ -28,8 +41,9 @@ Combustion emissions concern CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O. 
 
 Emissions due to geothermal energy use show an emission factor of 0.03 kgCO<sub>2</sub>/MJ.  
 
-The non-CO<sub>2</sub> emissions are defined according to the end use. Table 2 reports their sectoral emissions factors in t/PJ.
+The non-CO<sub>2</sub> emissions are defined according to the end use. Table 3 reports their sectoral emissions factors in t/PJ.
 
+Table 3 : Emissions factors due to fossil fuel end-use
 | Sector       | Emission | Coal | Heavy fuel oil | Kerosene | LGP  | Fossil gas | Oil  | Gasoline | Solid biomass | Wastes | Oven coke | Petcoke | Blast furnace gas |
 | ------------ | -------- | ---- | -------------- | -------- | ---- | ---------- | ---- | -------- | ------------- | ------ | --------- | ------- | ----------------- |
 | Agricultural | CH<sub>4</sub>      | 5.00 |                | 1.00     | 5.00 | 5.00       | 2.00 |          |               |        |           |         |                   |
@@ -49,7 +63,7 @@ The non-CO<sub>2</sub> emissions are defined according to the end use. Table 2 r
 
 ## Process CO<sub>2</sub> emissions
 
-
+Process CO<sub>2</sub> emissions due to limestone calcination occuring the cement process are détailed in Table 2 of the section dedicated to [cement](..\energy-sectors\industry\cement\index.md).
 
 ## Agricultural emissions
 
