@@ -21,6 +21,7 @@ TIAM-FR documentation
    backstop/index
    water/index
    minerals/index
+   emissions/index
    scenarios/index
    references/index
    
