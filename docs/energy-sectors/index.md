@@ -16,6 +16,5 @@ The rest of the sectoral energy system is described in the following subsections
 titlesonly:
 glob:
 ---
-CO2-accounting
 *
 ```
