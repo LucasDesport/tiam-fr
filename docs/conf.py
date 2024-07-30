@@ -31,3 +31,12 @@ html_static_path = ['_static']
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
 
 myst_enable_extensions = ["dollarmath"]
+
+extensions = [
+    'rst2pdf.pdfbuilder',
+    # other extensions
+]
+
+pdf_documents = [
+    ('index', 'MyProject', 'My Project Documentation', 'Author Name'),
+]
