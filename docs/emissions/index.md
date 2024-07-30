@@ -43,7 +43,7 @@ Emissions due to geothermal energy use show an emission factor of 0.03 kgCO<sub>
 
 The non-CO<sub>2</sub> emissions are defined according to the end use. Table 3 reports their sectoral emissions factors in t/PJ.
 
-Table 3 : Emissions factors due to fossil fuel end-use
+Table 3: Emissions factors due to fossil fuel end-use
 | Sector       | Emission | Coal | Heavy fuel oil | Kerosene | LGP  | Fossil gas | Oil  | Gasoline | Solid biomass | Wastes | Oven coke | Petcoke | Blast furnace gas |
 | ------------ | -------- | ---- | -------------- | -------- | ---- | ---------- | ---- | -------- | ------------- | ------ | --------- | ------- | ----------------- |
 | Agricultural | CH<sub>4</sub>      | 5.00 |                | 1.00     | 5.00 | 5.00       | 2.00 |          |               |        |           |         |                   |
@@ -68,6 +68,22 @@ Process CO<sub>2</sub> emissions due to limestone calcination occuring the cemen
 Process CO<sub>2</sub> emissions due to the oxidation of carbon occuring in steel manufacturing processes are detailed in Appendix 1 of the section dedicated to [iron & steel](../../docs/energy-sectors/industry/iron-steel/index.md).
 
 ## Agricultural emissions
+
+Agricultural CO<sub>2</sub> emissions due to land use, land-use changes and forestry (LULUCF) are reported in Table 4 in ktCO<sub>2</sub>.
+
+Table 4: LULUCF CO<sub>2</sub> emissions
+| Year | AFR     | AUS    | CAN   | CHI      | CSA     | EEU      | FSU   | IND      | JPN  | MEA  | MEX   | ODA     | SKO   | USA       | WEU      |
+| ---- | ------- | ------ | ----- | -------- | ------- | -------- | ----- | -------- | ---- | ---- | ----- | ------- | ----- | --------- | -------- |
+| 2018 | 3723510 | 103290 | 30780 | 21787    | 5040750 | \-141416 | 45042 | \-27962  | 5566 | 12   | 30992 | 2345960 | 10828 | \-3034060 | \-612221 |
+| 2020 | 3723510 | 103290 | 30780 | 21787    | 5040750 | \-141416 | 45042 | \-27962  | 5566 | 12   | 30992 | 2345960 | 10828 | \-3034060 | \-612221 |
+| 2030 | 3012030 | 89048  | 27734 | \-11785  | 2059590 | \-125266 | 40702 | \-33289  | 5020 | 11   | 27206 | 2059590 | 9675  | \-2419940 | \-809377 |
+| 2040 | 2368570 | 75420  | 24902 | \-36736  | 1756841 | \-109054 | 36712 | \-401381 | 4519 | 10   | 23073 | 1725370 | 8586  | \-1934120 | \-929606 |
+| 2050 | 1825130 | 63277  | 22359 | \-54405  | 1394120 | \-92625  | 33090 | \-58802  | 4065 | 8    | 19389 | 1394120 | 7586  | \-1176970 | \-927299 |
+| 2060 | 616759  | 25213  | 9876  | \-82135  | 1096580 | \-89796  | 14281 | \-30818  | 0    | 4    | 0     | 1096580 | 3310  | \-534564  | \-847854 |
+| 2070 | 522154  | 21441  | 8927  | \-88776  | 844523  | \-71088  | 12899 | \-18897  | 1589 | 3    | 0     | 844523  | 2917  | \-220966  | \-768410 |
+| 2080 | 415218  | 18037  | 8038  | \-79952  | 637950  | \-52381  | 11594 | \-116241 | 1441 | 1390 | 0     | 637950  | 2565  | \-158463  | \-609432 |
+| 2090 | 327754  | 15170  | 34834 | \-130580 | 527119  | \-33674  | 10517 | \-113598 | 1309 | 3289 | 0     | 475665  | 2254  | \-108780  | \-314250 |
+| 2100 | 384565  | 12717  | 62982 | \-107104 | 468929  | \-14966  | 9507  | \-127728 | 1183 | 4995 | 0     | 350397  | 1977  | \-68413   | \-86776  |
 
 ## References
 
