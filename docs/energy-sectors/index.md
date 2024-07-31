@@ -18,5 +18,9 @@ glob:
 ---
 *
 industry/cement/index
-industry/iron-stell/index
+industry/iron-steel/index
+supply/hydrogen
+supply/power-sector
+supply/synthetic-fuels
+supply/biofuels
 ```
