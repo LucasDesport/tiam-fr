@@ -223,4 +223,12 @@ Desport, L., 2023. Intégration de la capture, utilisation et stockage du carbon
 Fais, B., Sabio, N., Strachan, N., 2016. The critical role of the industrial sector in reaching long-term emission reduction, energy efficiency and renewable targets. Applied Energy 162, 699–712. https://doi.org/10.1016/j.apenergy.2015.10.112  
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
 
+```{toctree}
+---
+titlesonly:
+glob:
+---
+*
+```
+
 
