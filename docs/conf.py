@@ -13,33 +13,11 @@ author = 'Author One, Author Two, Author Three'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-# Import necessary modules
-from recommonmark.parser import CommonMarkParser
-
 extensions = [
     'myst_parser',
     'rst2pdf.pdfbuilder',
     # other extensions if any
-    'recommonmark',
-    'sphinx_markdown_tables',
 ]
-
-# Set the source suffix for Markdown files
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.md': 'markdown',
-}
-
-# Set the master doc (usually index)
-master_doc = 'index'
-
-# List of patterns, relative to source directory, that match files and directories to ignore when looking for source files.
-exclude_patterns = []
-
-# Set the source parser for Markdown
-source_parsers = {
-    '.md': CommonMarkParser,
-}
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
