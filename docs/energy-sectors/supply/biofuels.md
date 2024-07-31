@@ -1,6 +1,6 @@
 # Biofuels
 
-Biofuels denote end-use fuels made out of transformed [biomass](..\resources\biomass.md) products. In TIAM-FR, biofuels encompass biodiesel, bioethanol, biogasoline, biogas, biomethane, and biochar. Two main references are used here, that is, a report by (IEAGHG, 2021b), on which most of the data is based on, and a report by (IEA Bioenergy, 2019), which gives information on second-generation fermentation processes (without CCS).
+Biofuels denote end-use fuels made out of transformed [biomass](\resources\biomass.md) products. In TIAM-FR, biofuels encompass biodiesel, bioethanol, biogasoline, biogas, biomethane, and biochar. Two main references are used here, that is, a report by (IEAGHG, 2021b), on which most of the data is based on, and a report by (IEA Bioenergy, 2019), which gives information on second-generation fermentation processes (without CCS).
 
 ## Biodiesel and bioethanol
 
