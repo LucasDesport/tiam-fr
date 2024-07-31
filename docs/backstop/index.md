@@ -9,4 +9,5 @@ titlesonly:
 ---
 dac/index
 nonCO2/index
+mineralization
 ```
