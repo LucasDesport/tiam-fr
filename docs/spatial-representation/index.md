@@ -5,7 +5,7 @@ TIAM-FR is a global energy model divided into fifteen regions. Figure 1 shows th
 ![TIAM-regions](mapchart.png)
 Fig. 1: Regional disaggregation of TIAM-FR
 
-For each region, specific socio-economic parameters are associated reflecting the cost of capital and labor (Table 1), along with the [energy resources](../sectoral-coverage/index.md) available in the base year.
+For each region, specific socio-economic parameters are associated reflecting the cost of capital and labor (Table 1), along with the [energy resources](../energy-sectors/index.md) available in the base year.
 
 Table 1: Region-specific capital and labor scalars in TIAM-FR
 |       |AFR |AUS |CAN |CHI |CSA |EEU |FSU |IND |JPN |MEA |MEX |ODA |SKO |USA |WEU |
