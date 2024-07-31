@@ -17,4 +17,6 @@ titlesonly:
 glob:
 ---
 *
+industry/cement/index
+industry/iron-stell/index
 ```
