@@ -34,7 +34,7 @@ Tab. 1: Techno-economic properties of the hydrogenation process in TIAM-FR
 |Life|years|20|
 |Discount rate||8%|
 
-The techno-economic assumptions for CO<sub>2</sub> capture can be found in sections related to [the power sector](power-sector.md), [biofuels](biofuels.md), [industry](industry/index.md), and [direct air capture](/backstop/dac/index.md). The techno-economic assumptions for hydrogen supply can be found [here](hydrogen.md).  
+The techno-economic assumptions for CO<sub>2</sub> capture can be found in sections related to [the power sector](power-sector.md), [biofuels](biofuels.md), [industry](../industry/index.md), and [direct air capture](/backstop/dac/index.md). The techno-economic assumptions for hydrogen supply can be found [here](hydrogen.md).  
 
 Besides, methanol turned into gasoline through the so-called Methanol-to-Gasoline (MtG) process for which liquified petroleum gas (LPG) and electricity are co-products. Likewise, the MtG process can employ fossil-based or climate-neutral methanol. The techno-economic assumptions for this process are extrated from Hennig and Haase (2021) and summarized in Table 2:
 
