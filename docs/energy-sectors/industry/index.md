@@ -1,5 +1,13 @@
 # Industry
 
+```{toctree}
+---
+titlesonly:
+glob:
+---
+*
+```
+
 The industry sector englobes several industries:
 + the non-metal industry, notably the cement industry
 + the iron and steel industry
