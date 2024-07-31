@@ -13,6 +13,7 @@ TIAM-FR documentation
    overview/index
    spatial-representation/index
    time-representation/index
+   optimization/index
    demands/index
    resources/index
    trades/index
