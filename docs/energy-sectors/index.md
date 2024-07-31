@@ -17,6 +17,7 @@ titlesonly:
 glob:
 ---
 *
+industry/index
 industry/cement/index
 industry/iron-steel/index
 supply/hydrogen
