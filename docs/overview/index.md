@@ -8,7 +8,7 @@ to climate policies (taxes, agreements, pledges, etc.). It has been used for a w
 (Andrade, 2022; Genave, 2021; Selosse et al., 2018), national level (Assoumou, 2006; Doudard, 2017; Millot et al., 2020),
 continental level (Postic, 2015; Siggini, 2022), and global level (Boubault and Maïzi, 2019; Kang, 2017; Seck et al., 2022a; Selosse, 2019).  
 As part of the TIMES model family, TIAM-FR is a linear programming partial equilibrium model. It is categorized as a bottom-up model because of 
-its technology-rich description of the [energy system](../sectoral-coverage/index.md), depicting and tracking how energy is extracted, transformed, traded, and used in the world. The [demands](../demands/index.md) for energy, transportation and materials are given exogenously.
+its technology-rich description of the [energy system](../energy-sectors/index.md), depicting and tracking how energy is extracted, transformed, traded, and used in the world. The [demands](../demands/index.md) for energy, transportation and materials are given exogenously.
 
 ![TIMES structure](images/Times_IO.png)  
 Fig. 1: TIMES structure
