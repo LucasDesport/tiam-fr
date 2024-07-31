@@ -10,8 +10,7 @@ biomass
 coal
 gas
 oil
-renewables
-wastes
+hydrogen
 ```
 
 # References
