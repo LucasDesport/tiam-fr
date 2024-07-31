@@ -17,6 +17,8 @@ extensions = [
     'myst_parser',
     'rst2pdf.pdfbuilder',
     # other extensions if any
+    'recommonmark',
+    'sphinx_markdown_tables',
 ]
 
 templates_path = ['_templates']
