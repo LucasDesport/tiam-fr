@@ -20,9 +20,12 @@ The demand for transport road is split into different vehicle-based categories w
 
 ### Fuels
 
-In terms of fuels, the demand for road transport can be satisfied with the fuels displayed in Figure 3. 
+In terms of fuels, the demand for road transport can be satisfied with the fuels displayed in Figure 3
 
-Methanol blending
+Figure 3: Fuels available for the road transport sector in TIAM-FR
+![](Transport_roads_ft.png)
+
+The model has the opportunity to blend gasoline with methanol by up to 15% from 2030 onwards.
 
 ### Technologies
 
@@ -41,6 +44,9 @@ Existing technologies for buses are or powered by conventional fuels as Table 1 
 
 ## Rail
 
+The energy demands for passenger trains and freight include heavy fuel oil, diesel, gasoline, coal, electricity, and LPG. Alternative fuels include biodiesel, biogasoline and additional synthetic fuels.
+
+![](Transport_train.png)
 
 
 **References**  
