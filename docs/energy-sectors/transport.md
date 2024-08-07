@@ -16,7 +16,28 @@ As shown in Figure 2, the international and domestic energy demands for maritime
 
 ## Road
 
-The demand for transport road is split into different vehicle-based categories. 
+The demand for transport road is split into different vehicle-based categories whose fuel and technologies differ whether it cars, trucks or 2-wheel vehicles.
+
+### Fuels
+
+In terms of fuels, the demand for road transport can be satisfied with the fuels displayed in Figure 3. 
+
+Methanol blending
+
+### Technologies
+
+Existing technologies for buses are or powered by conventional fuels as Table 1 shows.. Innovative technologies more efficient engines for the fuels already available in the base year, as well as engines that can be fueled with low-carbon fuels.
+
+| Demand sector | Existing technologies | Innovative technologies |
+| ------------- | --------------------- | ----------------------- |
+| Road bus      | Biodiesel, diesel, biogasoline, gasoline, electricity, fossil gas, biogas, LPG | Ethanol, methanol, diesel, hydrogen fuel cells |
+| Commercial trucks | Biodiesel, diesel, biogasoline, gasoline, electricity, fossil gas, biogas, LPG | Ethanol, methanol, diesel, hydrogen fuel cells |
+| Heavy trucks | Biodiesel, biogasoline, diesel, gasoline, fossil gas, LPG | Diesel, gasoline, ethanol, methanol, gas, LPG, hydrogen fuel cells |
+| Road medium trucks | Biodiesel, Biogasoline, diesel, gasoline, electricity, LPG, gas | Diesel, gasoline electricity, ethanol, LPG, gas |
+| Road cars | Biodiesel, Biogasoline, diesel, gasoline, electricity, LPG, gas | Diesel, gasoline, ethanol, methanol, gas, hydrogen fuel cells, hydrogen combustion |
+| Road light vehicle | Biodiesel, Biogasoline, diesel, gasoline, electricity, LPG, gas | Diesel, gasoline, ethanol, methanol, gas, hydrogen fuel cells, hydrogen combustion |
+| Three wheels | Diesel, gasoline | Biodiesel, Biogasoline, methanol, diesel, gasoline |
+| Two wheels | Biogasoline, gasoline | Biogasoline, gasoline |
 
 ## Rail
 
