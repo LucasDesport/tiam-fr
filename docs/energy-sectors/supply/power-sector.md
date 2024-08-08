@@ -117,6 +117,43 @@ Table 5
 | Pulverized Coal.Co-Firing. Parallel        | 2480      | 99       | 0.70     | 47%     |          | 60%      |          | 40%      |
 | Pulverized Coal.Co-Firing. Seperate feeding | 2308      | 115      | 0.70     | 47%     |          | 60%      |          | 40%      |
 
+Table 6
+| Technology                                                     | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Input share   | Input Share | Input Share | Input Share |
+| -------------------------------------------------------------- | ------ | --------- | ------------ | ---------- | -------- | -------- | -------- | -------- |
+| Units                                                          | [$/kW] | [$/kW]    | [$/GJ]       |            | Solid biomass | Coal | Pellets | Torrefied pellets |
+| Air Blown IGCC.Co-Firing. Co-milling with carbon capture       | 4947   | 142.0     | 1.4          | 37%        |               | 90% | 10% |  |
+| Air Blown IGCC.Co-Firing. Parallel with carbon capture         | 5690   | 186.7     | 1.4          | 37%        |               | 90% | 10% |  |
+| Air Blown IGCC.Co-Firing. Seperate feeding with carbon capture | 5381   | 220.7     | 1.4          | 37%        |               | 90% | 10% |  |
+| Air Blown IGCC.Co-Firing. Parallel with carbon capture         | 5690   | 186.7     | 1.4          | 37%        |               | 80% | 20% |  |
+| Air Blown IGCC.Co-Firing. Seperate feeding with carbon capture | 5381   | 220.7     | 1.4          | 37%        |               | 80% | 20% |  |
+| Air Blown IGCC.Co-Firing. Parallel with carbon capture         | 5690   | 186.7     | 1.4          | 37%        | 10%           | 90% |  |  |
+| Air Blown IGCC.Co-Firing. Seperate feeding with carbon capture | 5381   | 220.7     | 1.4          | 37%        | 10%           | 90% |  |  |
+| Air Blown IGCC.Co-Firing. Parallel with carbon capture         | 5690   | 186.7     | 1.4          | 36%        | 20%           | 80% |  |  |
+| Air Blown IGCC.Co-Firing. Seperate feeding with carbon capture | 5381   | 220.7     | 1.4          | 36%        | 20%           | 80% |  |  |
+| Air Blown IGCC.Co-Firing. Parallel with carbon capture         | 5690   | 186.7     | 1.4          | 35%        | 40%           | 60% |  |  |
+| Air Blown IGCC.Co-Firing. Co-milling with carbon capture       | 4947   | 142.0     | 1.4          | 37%        | 5%            | 95% |  |  |
+| Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               | 90% | 10% |  |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               | 90% | 10% |  |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 90% | 10% |  |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               | 80% | 20% |  |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 80% | 20% |  |
+| Pulverized Coal.Co-Firing. Prallel with carbon capture         | 4467   | 146.6     | 1.4          | 38%        |               | 60% | 40% |  |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 37%        | 10%           | 90% |  |  |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 39%        | 10%           | 90% |  |  |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 37%        | 20%           | 80% |  |  |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 37%        | 20%           | 80% |  |  |
+| Pulverized Coal.Co-Firing. Prallel with carbon capture         | 4467   | 146.6     | 1.4          | 36%        | 40%           | 60% |  |  |
+| Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 35%        | 5%            | 95% |  |  |
+| Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               | 90% |  | 10% |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               | 90% |  | 10% |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 90% |  | 10% |
+| Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               | 80% |  | 20% |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               | 80% |  | 20% |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 80% |  | 20% |
+| Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               | 60% |  | 40% |
+| Pulverized Coal.Co-Firing. Prallel with carbon capture         | 4467   | 146.6     | 1.4          | 38%        |               | 60% |  | 40% |
+| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 60% |  | 40% |
+
 ### Renewables
 
 #### Hydropower
