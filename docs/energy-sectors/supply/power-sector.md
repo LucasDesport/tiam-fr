@@ -145,35 +145,45 @@ Table 6: Techno-economic assumptions of co-firing processes with carbon capture
 | Air Blown IGCC.Co-Firing. Co-milling with carbon capture       | 4947   | 142.0     | 1.4          | 37%        | 5%            |   |  |
 | Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               | 10% |  |
 | Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               | 10% |  |
-| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 10% |  |
+| Pulverized Coal.Co-Firing. Seperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 10% |  |
 | Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               | 20% |  |
-| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 20% |  |
-| Pulverized Coal.Co-Firing. Prallel with carbon capture         | 4467   | 146.6     | 1.4          | 38%        |               | 40% |  |
+| Pulverized Coal.Co-Firing. Seperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               | 20% |  |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture         | 4467   | 146.6     | 1.4          | 38%        |               | 40% |  |
 | Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 37%        | 10%           |     |  |
-| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 39%        | 10%           | |  |
+| Pulverized Coal.Co-Firing. Seperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 39%        | 10%           | |  |
 | Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 37%        | 20%           | |  |
 | Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 37%        | 20%           | |  |
 | Pulverized Coal.Co-Firing. Prallel with carbon capture         | 4467   | 146.6     | 1.4          | 36%        | 40%           |   |  |
 | Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 35%        | 5%            |   |  |
 | Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               |   | 10% |
 | Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               |   | 10% |
-| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               |   | 10% |
+| Pulverized Coal.Co-Firing. Seperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               |   | 10% |
 | Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               |   | 20% |
 | Pulverized Coal.Co-Firing. Parallel with carbon capture        | 4467   | 146.6     | 1.4          | 38%        |               |   | 20% |
-| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               |   | 20% |
+| Pulverized Coal.Co-Firing. Seperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               |   | 20% |
 | Pulverized Coal.Co-Firing. Co-milling with carbon capture      | 3724   | 106.9     | 1.4          | 38%        |               |   | 40% |
-| Pulverized Coal.Co-Firing. Prallel with carbon capture         | 4467   | 146.6     | 1.4          | 38%        |               |   | 40% |
-| Pulverized Coal.Co-Firing. Sperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               |   | 40% |
+| Pulverized Coal.Co-Firing. Parallel with carbon capture         | 4467   | 146.6     | 1.4          | 38%        |               |   | 40% |
+| Pulverized Coal.Co-Firing. Seperate feeding with carbon capture | 4158   | 170.5     | 1.4          | 38%        |               |   | 40% |
 
 ### Renewables
 
-#### Hydropower
+#### Wind Water Solar (WWS)
 
-#### Solar
+Detailed country-level potentials for onshore and offshore wind, photovoltaic, and hydro are used. Wind potentials are segmented by resource class, distance from transmission, and, for offshore wind, depth. Each country-level segment has its own cost, resulting in a detailed global wind supply curve. PV potential is similarly segmented by resource class within each country. Hydro is specified by a three-step cost supply curve.  
+Due to the very explicit, technology-rich description of WWS, Table 7 summarizes statistically the capital cost of WWS by grouping them by technology, class and year. In brackets are shown the 5th and 95th percentiles of capital costs.
 
-#### Wind
+| Technology    | Class | 2018                | 2050                |
+| ------------- | ----- | ------------------- | ------------------- |
+| Hydro         | 1     | 2231 [1281 - 6000]  | 2231 [1281 - 6000]  |
+| Hydro         | 2     | 4335 [1737 - 8000]  | 4335 [1737 - 8000]  |
+| Hydro         | 3     | 6920 [2923 - 10099] | 6920 [2923 - 10099] |
+| Solar PV      |       | 1245 [1020 - 2144]  | 1011 [829 - 1741]   |
+| Wind offshore |       | 4277 [3585 - 4277]  | 3411 [2859 - 3411]  |
+| Wind onshore  |       | 2565 [1616 - 3805]  | 2030 [1279 - 3012]  |
 
 #### Ocean
+
+
 
 ## Modeling
 
