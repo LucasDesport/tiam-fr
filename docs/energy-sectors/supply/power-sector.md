@@ -2,7 +2,7 @@
 
 The power sector encompasses two energy commodities, namely centralized electricity and decentralized electricity. 
 * Centralized electricity can be generated using various fuels and technologies and is consumed directly in end-use sectors.
-* Decentralized electricity, is specifically generated from wind, solar, and bioenergy without carbon capture and storage (CCS). It is primarily used in the production of [hydrogen](hydrogen.png) of [synthetic fuels](synthetic-fuels.md).
+* Decentralized electricity, is specifically generated from wind, solar, or bioenergy without carbon capture and storage (CCS). It is primarily used in the production of [hydrogen](hydrogen.png) or [synthetic fuels](synthetic-fuels.md).
 The power sector can be decarbonized with carbon capture and storage technologies as well as renewables.
 
 ## Technologies
@@ -50,6 +50,8 @@ Table 2: Techno-economic assumptions of fossil-fired power plants with CCS
 
 ### Bioenergy with and without CCS
 
+The techno-economic assumptions for bioenergy-fired plants, as summarized in Table 3, are based on data from Kang (2017). To account for the additional costs of integrating a carbon capture unit, we assume that the required effort is equivalent to that for coal-fired power plants. Therefore, we apply the same scaling factor used for coal (Table 4).
+
 Table 3: Techno-economic assumptions of bioenergy-fired power plants without CCS
 | Technology                          | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Availability factor |
 | ----------------------------------- | ------ | --------- | ------------ | ---------- | ------------------- |
@@ -70,10 +72,12 @@ Table 4: Techno-economic assumptions of bioenergy-fired power plants with CCS
 
 #### Co-firing with and without CCS
 
+Co-firing coal and bioenergy can take many forms: the substitution rate of biomass can vary from 5% to 40% with different types of biomass considered (solid biomass, pellets, or torrefied pellets)
+
 Table 5
 |                                                 | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Input Share | Input Share | Input Share | Input Share |
 | ----------------------------------------------- | --------- | -------- | -------- | ------- | -------- | -------- | -------- | -------- |
-| Units                                           | [$/kW]    | [$/kW]   | [$/GJ]   |         | ELCBSL   | ELCCOA   | ELCPEL   | ELCTOR   |   
+| Units                                           | [$/kW]    | [$/kW]   | [$/GJ]   |         | Solid biomass   | Coal   | Pellets   | Torrefied pellets   |   
 | Air Blown IGCC.Co-Firing. Co-milling       | 2746      | 96       | 0.62     | 47%     |          | 90%      | 10%      |          |
 | Air Blown IGCC.Co-Firing. Parallel         | 3159      | 126      | 0.62     | 47%     |          | 90%      | 10%      |          |
 | Air Blown IGCC.Co-Firing. Seperate feeding | 2987      | 149      | 0.62     | 47%     |          | 90%      | 10%      |          |
