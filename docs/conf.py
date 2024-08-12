@@ -13,11 +13,19 @@ author = 'Author One, Author Two, Author Three'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [
-    'myst_parser',
-    'rst2pdf.pdfbuilder',
-    # other extensions if any
-]
+#extensions = [
+#    'myst_parser',
+#    'rst2pdf.pdfbuilder',
+# other extensions if any
+#]
+
+latex_engine = 'pdflatex'
+latex_elements = {
+    'papersize': 'a4paper',
+    'pointsize': '10pt',
+    # Additional LaTeX configurations
+}
+
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
