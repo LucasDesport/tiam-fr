@@ -21,10 +21,15 @@ author = 'Author One, Author Two, Author Three'
 
 latex_engine = 'pdflatex'
 latex_elements = {
-    'papersize': 'a4paper',
+    'papersize': 'a4paper',  # Adjust to 'letterpaper' if needed
     'pointsize': '10pt',
-    # Additional LaTeX configurations
+    # Additional LaTeX configurations if necessary
 }
+
+latex_documents = [
+    ('index', 'TIAM-FR.tex', 'TIAM-FR Documentation', 'Author One, Author Two, Author Three', 'manual'),
+]
+
 
 
 templates_path = ['_templates']
