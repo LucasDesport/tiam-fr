@@ -172,6 +172,7 @@ Table 6: Techno-economic assumptions of co-firing processes with carbon capture
 Detailed country-level potentials for onshore and offshore wind, photovoltaic, and hydro are used. Wind potentials are segmented by resource class, distance from transmission, and, for offshore wind, depth. Each country-level segment has its own cost, resulting in a detailed global wind supply curve. PV potential is similarly segmented by resource class within each country. Hydro is specified by a three-step cost supply curve.  
 Due to the very explicit, technology-rich description of WWS, Table 7 summarizes statistically the capital cost of WWS by grouping them by technology, class and year. In brackets are shown the 5th and 95th percentiles of capital costs.
 
+Table 7: Present and future median capital cost for WWS technologies (in $/kW). Values under brackets represent 5th and 95 percentiles.
 | Technology    | Class | 2018                | 2050                |
 | ------------- | ----- | ------------------- | ------------------- |
 | Hydro         | 1     | 2231 [1281 - 6000]  | 2231 [1281 - 6000]  |
@@ -183,11 +184,26 @@ Due to the very explicit, technology-rich description of WWS, Table 7 summarizes
 
 #### Ocean
 
+The techno-economic assumptions for tidal and wave power generation are summarized in Table 8.
 
+Table 8: Techno-economic assumptions for tide and wave
+| Technology | CAPEX | Fixed O&M | Lifetime | Availability factor |
+| ---------- | ----- | --------- | -------- | ------------------- |
+| Units      |[$/kW] | [$/kW]    | years    |                     |
+| Tide       | 3750  | 123       | 20       | 34%                 |
+| Wave       | 2750  | 37        | 20       | 34%                 |
 
-## Modeling
+#### Geothermal energy
+
+The techno-economic assumptions for tidal and wave power generation are summarized in Table 9.
+
+Table 9: Techno-economic assumptions for geothermal power generation
+
+## Combined heat and power (CHP)
 
 ## Constraints
+
+The penetration of intermittent renewables is limited empirically to 35% of total electricity generation for each [region](/spatial-representation/index.md) and [timeslice](/time-representation/index.md). The early penetration of renewables (from 2018 to 2028) is driven by additional capacities and total production according to IEA Renewable 2023 Dataset (IEA, 2024).
 
 ## References
 
