@@ -2,7 +2,7 @@
 
 The power sector encompasses two energy commodities, namely centralized electricity and decentralized electricity. 
 * Centralized electricity can be generated using various fuels and technologies and is consumed directly in end-use sectors.
-* Decentralized electricity, is specifically generated from wind, solar, or bioenergy without carbon capture and storage (CCS). It is primarily used in the production of [hydrogen](hydrogen.png) or [synthetic fuels](synthetic-fuels.md).
+* Decentralized electricity, is specifically generated from wind, solar, or bioenergy without carbon capture and storage (CCS). It is primarily used in the production of [hydrogen](hydrogen.md) or [synthetic fuels](synthetic-fuels.md).
 The power sector can be decarbonized with carbon capture and storage technologies as well as renewables.
 
 ## Technologies
