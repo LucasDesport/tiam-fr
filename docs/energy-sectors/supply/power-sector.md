@@ -195,11 +195,27 @@ Table 8: Techno-economic assumptions for tide and wave
 
 #### Geothermal energy
 
-The techno-economic assumptions for tidal and wave power generation are summarized in Table 9.
+The techno-economic assumptions for tidal and wave power generation are summarized in Table 9. Three type of geothermal power plants are distinguished depending on the depth. Process emissions are associated to the extractionf of geothermal energy, accounting for the native CO2 trapped into rocks and released to atmosphere by 0.02 kgCO<sub>2</sub>/GJ.
 
 Table 9: Techno-economic assumptions for geothermal power generation
+| Technology | CAPEX | Fixed O&M | Construction duration | Lifespan | Efficiency | Availability factor | Discount rate |
+| ---------- | ----- | --------- | --------------------- | -------- | ---------- | ------------------- | ------------- |
+| Units      |[$/kW] | [$/kW]    | years                 | years    |            |                     |               |
+| Shallow    | 2592  | 103       | 7                     | 40       | 10%        | 85%                 | 13%           |
+| Deep       | 4587  | 151       | 7                     | 40       | 10%        | 85%                 | 13%           |
+| Very deep  | 14664 | 277       | 8                     | 40       | 10%        | 85%                 | 13%           |
 
 ## Combined heat and power (CHP)
+
+Table 10: Techno-economic assumptions for CHP 
+| Fuel              | CAPEX | Fixed O&M | Heat-to-power ratio | Construction duration | Lifespan | Efficiency |
+| ----------------- | --------- | -------- | --------- | --------- | ---------- | ------- |
+| Pellets           | 3750      | 100      | 1.50      | 4         | 25         | 41%     |
+| Torrefied pellets | 3750      | 100      | 1.50      | 4         | 25         | 42%     |
+| Coal              | 3250      | 105      | 2.42      | 4         | 40         | 28%     |
+| Gas               | 1101      | 34       | 1.42      | 4         | 25         | 41%     |
+| Geothermal energy | 10000     | 250      | 3.33      | 7         | 40         | 14%     |
+| Oil               | 1150      | 250      | 1.31      | 4         | 20         | 37%     |
 
 ## Constraints
 
