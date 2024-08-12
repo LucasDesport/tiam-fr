@@ -47,6 +47,6 @@ html_static_path = ['_static']
 myst_enable_extensions = ["dollarmath"]
 
 # -- Options for rst2pdf -----------------------------------------------------
-pdf_documents = [
-    ('index', 'TIAM-FR', 'TIAM-FR Documentation', 'Author One, Author Two, Author Three'),
-]
+#pdf_documents = [
+#    ('index', 'TIAM-FR', 'TIAM-FR Documentation', 'Author One, Author Two, Author Three'),
+#]
