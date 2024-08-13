@@ -221,7 +221,7 @@ Table 10: Techno-economic assumptions for CHP
 
 The penetration of intermittent renewables is limited empirically to 35% of total electricity generation for each [region](/spatial-representation/index.md) and [timeslice](/time-representation/index.md). The early penetration of renewables (from 2018 to 2028) is driven by additional capacities and total production according to IEA Renewable 2023 Dataset (IEA, 2024).
 
-## References
+**References**
 
 Irlam, L., 2017. Global CCS Institute : Global Costs of Carbon Capture and Storage. Global CCS Institute.  
 IEAGHG, 2020. Techno-Economic Benchmarks for Fossil Fuel-Fired Power Plants with CO2 Capture (No. 2020– 07).  
