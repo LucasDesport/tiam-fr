@@ -4,6 +4,6 @@ The agricultural sector in TIAM-FR is not modeled with end-use technologies but 
 
 ![](AGR.png)
 
-# References
+**References**
 
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
