@@ -18,7 +18,7 @@ All these options for new renewable installations are tracked at the country lev
 
 ## Tide and wave
 
-# References
+**References**
 
 NEA (2015), Projected Costs of Generating Electricity - 2015 Edition, OECD Publishing, Paris
 NREL, 2014. Open Energy Data Initiative (OEDI) [WWW Document]. OpenEI. URL https://data.openei.org/ (accessed 6.4.24).
