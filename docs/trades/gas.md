@@ -59,6 +59,6 @@ Table 3: Techno-economic properties of liquefaction and regasification processes
 | FIXOM      | 0.00         | 0.10           |
 | Life       | 50.00        | 50.00          |
 
-# References
+**References**
 
 BP, 2019. BP Statistical Review of World Energy 2019 \[WWW Document\]. URL https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-full-report.pdf (accessed 3.29.24).
