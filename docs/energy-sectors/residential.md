@@ -11,7 +11,7 @@ Figure 2: Seasonal, time-slice space heating energy demand in TIAM-FR across reg
 
 Residential energy demands can be satisfied by multiple technologies including heat pumps, and processed with numerous energies including gas, coal, electricity, bioenergy, and oil products.
 
-## Technologies and energy carriers
+**Technologies and energy carriers**
 
 For space heating, end-use technologies include district heating, electrical resistance, air-to-air heat pumps, ground-to-air heat pumps, concentrated solar, geothermal pumps, woodstoves, as well as burner and boilers either fueled by distillates, LPG, kerosene, heavy fuel oil, fossil gas or coal.  
 For hot water, electricity can be employed into water heater resistance or air-to-water heat pumps. Solar energy can be employed in water heater and potentially backed up with electricity, oil, LPG or gas.  Conventional fuels like woody products, kerosene, and coal can be used raw to fuel water heaters. Finally, geothermal enegry and distributed heat can provide low-carbon hot water.  
@@ -20,6 +20,6 @@ Cooking devices are distinguished by the fuels employed (gas, kerosone, diesel, 
 Lighting is satisfied by technologies including incandescent, fluorescent, halogen, and compact light devices with efficiencies ranging from 100\% to 700\%. Conventional devices include kerosene lighting.  
 Finally, the cooling demand can be satisfied by air-to-air and ground-to-air heat pumps, with coefficients of performance up to 4.4.
 
-## References
+**References**
 
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
