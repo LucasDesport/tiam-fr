@@ -76,7 +76,7 @@ The annual availability factor is set at 90% and material input is 1.26 tlimesto
 
 Different finishing processes are implemented in the model. They refer to the final process that converts clinker into commercial cement by blending clinker with a mix of aggregates. The conventional finishing process refers to the transformation of clinker into Ordinary Portland Cement (OPC), which consists in grinding and mixing clinker with gypsum, respectively by 95%wt and 5%wt (Fazio and Pennington, 2006). Thus, the finished cement is highly clinker-intensive, but an alternative finishing process consists in reducing the clinker-to-cement ratio and blending with alternative aggregates such as blast furnace slag, mineralized fly ashes, and mineralized steel slags. The model chooses the optimal mix of aggregates to be blended with clinker, and clinker share in final cement is comprised between 5% to 35% (Figure 1).
 
-## References
+**References**
 
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).  
 Andrew, R.M., 2019. Global CO2 emissions from cement production, 1928–2018. Earth System Science Data 11, 1675–1710. https://doi.org/10.5194/essd-11-1675-2019  
