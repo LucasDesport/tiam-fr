@@ -74,7 +74,7 @@ Biogas can be used in all sectors of the economy but is not a perfect substitute
 
 Biochar is a type of charcoal that is produced by pyrolyzing organic materials (such as agricultural waste, wood chips, and plant residues) in the absence of oxygen at high temperatures (usually between 300°C and 600°C). This results in a stable, carbon-rich product that can be used as an energy commodity of a fertilizer. In TIAM-FR, biochar is only represented as an energy commodity made out of wood chips or harvest residues. In the first case, the production cost is estimated to 4.63 $/GJ (Cristobal Feliciano-Bruzual 2014) in addition to the cost of processing wood chips. In the second case, the production cost is estimated to $32/GJ plus the cost of processing agricultural residued (Nematian et al., 2021). In both cases, the energy efficiency is estimated to 65% based on (Cristobal Feliciano-Bruzual, 2014)
 
-# References
+**References**
 
 IEAGHG, 2021. Biorefineries with CCS.
 Kang, S., 2017. La place de la bioénergie dans un monde sobre en carbone: Analyse prospective et développement de la filière biomasse dans le modèle TIAM-FR. MINES ParisTech.
