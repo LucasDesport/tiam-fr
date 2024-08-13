@@ -61,7 +61,7 @@ Table 2: Techno-economic assumptions for different hydrogen production routes
 |                                            | FIXOM      | $/kW  | 46     | 23     |      | 23   |
 |                                            | Lifespan   | years | 20     |        |      |      |
 
-## References
+**References**
 
 Parkinson, B., Balcombe, P., Speirs, J.F., Hawkes, A.D., Hellgardt, K., 2019. Levelized cost of CO2 mitigation from hydrogen production routes. Energy Environ. Sci. 12, 19–40. https://doi.org/10.1039/C8EE02079E
 IEA, 2015. Technology Roadmap Hydrogen and Fuel Cells 81.
