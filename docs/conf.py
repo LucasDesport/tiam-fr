@@ -9,6 +9,7 @@ release = '1.0'
 
 extensions = [
     'myst_parser',
+    'sphinx.ext.mathjax',
     # Other Sphinx extensions
 ]
 
