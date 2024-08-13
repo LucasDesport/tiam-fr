@@ -1,4 +1,4 @@
-# Sectoral coverage
+# Energy sectors
 
 In TIAM-FR, the RES network links primary energy extraction and renewable energy potentials around the world to transform them into final energy that satisfies the energy demand of five sectors,
 *i.e.* the agriculture, commercial, residential, transport, and industry sectors. The technologies can be primary sources of energy (extraction processes), activity processes (power plants,
