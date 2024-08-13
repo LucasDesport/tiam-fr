@@ -13,9 +13,9 @@ In nature, this chemical reaction rarely occurs due to the elevated temperatures
 Fig. 2: Commodity flows of mineralization processes in TIAM-FR
 ![](mineralization process.png)
 
-### Mineralization of steel slags
+## Mineralization of steel slags
 
-### Mineralization of pulverized fly ashes
+## Mineralization of pulverized fly ashes
 
 **References**
 
