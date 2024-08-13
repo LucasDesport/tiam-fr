@@ -10,7 +10,7 @@ TIAM-FR documentation
    :caption: Table of Contents
    :maxdepth: 5
    
-   overview/index
+   overview/index.md
    spatial-representation/index
    time-representation/index
    optimization/index
