@@ -57,7 +57,7 @@ Table 4: Cost of coal extraction \[$/GJ\] across regions to be associated to the
 
 To reflect that the declared resources are not entirely accessible right off the bat, it is assume that 10% of the resources of each step can be extracted annually.
 
-# References
+**References**
 
 IEA, 2020. World Energy Balances - Data product [WWW Document]. IEA. URL https://www.iea.org/data-and-statistics/data-product/world-energy-balances (accessed 11.16.22).  
 Pye, S., Bradley, S., Hughes, N., Price, J., Welsby, D., Ekins, P., 2020. An equitable redistribution of unburnable carbon. Nat Commun 11, 3968. https://doi.org/10.1038/s41467-020-17679-3  
