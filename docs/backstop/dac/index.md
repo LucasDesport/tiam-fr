@@ -31,7 +31,7 @@ Table 1: Techno-economic properties of DAC in TIAM-FR
 
 The DAC units generate an certain amount of atmospheric CO<sub>2</sub> captured which can be either [utilized](/energy-sectors/supply/synthetic-fuels.md) or [stored](/non-energy-sectors/CO2-transport-and-storage.md). For more details on the techno-economic assumptions, please consult (Desport et al., 2024).
 
-## References
+**References**
 NASEM, 2019. Negative Emissions Technologies and Reliable Sequestration: A Research Agenda. National Academies Press, Washington, D.C. https://doi.org/10.17226/25259  
 Herzog, H., 2022. Chapter 6. Direct Air Capture, in: Bui, M., Mac Dowell, N. (Eds.), Energy and Environment Series. Royal Society of Chemistry, Cambridge, pp. 115–137. https://doi.org/10.1039/9781839165245-00115  
 McQueen, N., Gomes, K.V., McCormick, C., Blumanthal, K., Pisciotta, M., Wilcox, J., 2021. A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future. Prog. Energy 3, 032001. https://doi.org/10.1088/2516-1083/abf1ce  
