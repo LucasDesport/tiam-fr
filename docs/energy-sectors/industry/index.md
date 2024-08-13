@@ -217,7 +217,7 @@ Table 1: Techno-economic properties of industrial energy-service processes in TI
 | Pulp and paper | Steam          | Oven coke               | Existing technologies | 0      | 0     | 0     | 1,00       | 0,00         | 1,00                |
 | Pulp and paper | Steam          | Wastes                  | Existing technologies | 4,12   | 0,18  | 0,15  | 0,75       | 0,00         | 0,80                |
 
-## References
+**References**
  
 Desport, L., 2023. Intégration de la capture, utilisation et stockage du carbone dans les modèles socio-technico-économiques : optimisation long terme du système énergétique mondial et décarbonation de l’industrie. Université Paris sciences et lettres.  
 Fais, B., Sabio, N., Strachan, N., 2016. The critical role of the industrial sector in reaching long-term emission reduction, energy efficiency and renewable targets. Applied Energy 162, 699–712. https://doi.org/10.1016/j.apenergy.2015.10.112  
