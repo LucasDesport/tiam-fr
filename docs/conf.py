@@ -17,6 +17,9 @@ myst_enable_extensions = [
     "amsmath",
 ]
 
+# Optional: Configure the path to MathJax (not always needed, default usually works)
+mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
