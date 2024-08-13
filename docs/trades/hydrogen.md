@@ -45,7 +45,7 @@ In terms of modelling, we consider shipping hydrogen:
 
 The distances were taken from a website estimating shipping distances from one port to another (SEA-DISTANCES.ORG, 2022). We assume that hydrogen shipping is available starting from 2025, and that BOG recovery is available from 2035 onwards, avoiding fossil emissions from HFO combustion.
 
-# References
+**References**
 Alkhaledi, A.NFNR., Sampath, S., Pilidis, P., 2022. Economic analysis of a zero-carbon liquefied hydrogen tanker ship. International Journal of Hydrogen Energy 47, 28213–28223. https://doi.org/10.1016/j.ijhydene.2022.06.168  
 Johnston, C., Ali Khan, M.H., Amal, R., Daiyan, R., MacGill, I., 2022. Shipping the sunshine: An open-source model for costing renewable hydrogen transport from Australia. International Journal of Hydrogen Energy 47, 20362–20377. https://doi.org/10.1016/j.ijhydene.2022.04.156  
 Raab, M., Maier, S., Dietrich, R.-U., 2021. Comparative techno-economic assessment of a large-scale hydrogen transport via liquid transport media. International Journal of Hydrogen Energy 46, 11956–11968. https://doi.org/10.1016/j.ijhydene.2020.12.213  
