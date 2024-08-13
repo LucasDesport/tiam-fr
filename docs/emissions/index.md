@@ -85,7 +85,7 @@ Table 4: LULUCF CO<sub>2</sub> emissions
 | 2090 | 327754  | 15170  | 34834 | \-130580 | 527119  | \-33674  | 10517 | \-113598 | 1309 | 3289 | 0     | 475665  | 2254  | \-108780  | \-314250 |
 | 2100 | 384565  | 12717  | 62982 | \-107104 | 468929  | \-14966  | 9507  | \-127728 | 1183 | 4995 | 0     | 350397  | 1977  | \-68413   | \-86776  |
 
-## References
+**References**
 
 EIA, 2022. U.S. Energy Information Administration - EIA - Independent Statistics and Analysis [WWW Document]. URL https://www.eia.gov/environment/emissions/co2_vol_mass.php (accessed 10.6.22).
 
