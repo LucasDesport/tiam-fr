@@ -13,6 +13,10 @@ extensions = [
     # Other Sphinx extensions
 ]
 
+myst_enable_extensions = [
+    "amsmath",
+]
+
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
