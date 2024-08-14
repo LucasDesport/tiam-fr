@@ -28,7 +28,7 @@ CO<sub>2</sub> capture opportunities are available in TIAM-FR in the [industry s
 To realistically model the operations of CO<sub>2</sub> storage, a constraint on the CO<sub>2</sub> injection rate limits the annual activity of CO<sub>2</sub> storage processes. This rate of 2.6% (Jahediesfanjani et al., 2018) is consistent with the average injection rates of a well over its economic lifetime
 Finally, we consider that the exchange of captured CO<sub>2</sub> between countries is allowed by international regulations under the London Protocol (IEAGHG, 2021). As some of the regions in the model are country-aggregated (e.g., WEU, AFR, CSA, etc.), it is important to assume that countries can store CO<sub>2</sub> in a different country from where it was emitted and captured.
 
-## References
+**References**
 
 Kearns, J., Teletzke, G., Palmer, J., Thomann, H., Kheshgi, H., Chen, Y.-H.H., Paltsev, S., Herzog, H., 2017. Developing a Consistent Database for Regional Geologic CO2 Storage Capacity Worldwide. Energy Procedia, 13th International Conference on Greenhouse Gas Control Technologies, GHGT-13, 14-18 November 2016, Lausanne, Switzerland 114, 4697–4709. https://doi.org/10.1016/j.egypro.2017.03.1603  
 Smith, E., Morris, J., Kheshgi, H., Teletzke, G., Herzog, H., Paltsev, S., 2021. The cost of CO2 transport and storage in global integrated assessment modeling. International Journal of Greenhouse Gas Control 109, 103367. https://doi.org/10.1016/j.ijggc.2021.103367  
