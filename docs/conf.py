@@ -8,14 +8,14 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 
 extensions = [
-    'myst_parser',
     'sphinx.ext.mathjax',
+    'sphinx.ext.imgmath'
     # Other Sphinx extensions
 ]
 
-myst_enable_extensions = [
-    "amsmath",
-]
+#myst_enable_extensions = [
+#    "amsmath",
+#]
 
 # Optional: Configure the path to MathJax (not always needed, default usually works)
 mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
