@@ -21,7 +21,8 @@ myst_enable_extensions = [
 ]
 
 # Optional: Configure the path to MathJax (not always needed, default usually works)
-mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+#mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
 
 
 templates_path = ['_templates']
