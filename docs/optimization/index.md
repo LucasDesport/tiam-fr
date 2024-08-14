@@ -2,7 +2,9 @@
 
 In linear programming, an optimization problem consists in minimizing or maximizing an objective function which is expressed by decision variables subject to constraints. In TIAM-FR, the optimization problem determines the partial economic equilibrium  of the energy system, or the total discounted cost minimized over all periods of the model’s horizon, while respecting any technical, environmental, and policy constraints, represented in the matrix *B* and vector *b* of the following equation.
 
-$$ \min c \cdot X $$
+\[
+\min c \cdot X
+\]
 
 $$
 s.t. \forall t \in T, \forall i \in I, Q_{k,i} (t) \geq D_i (t)
