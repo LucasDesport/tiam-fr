@@ -13,6 +13,6 @@ oil
 hydrogen
 ```
 
-# References
+**References**
 
 Remme, U., Blesl, M., Fahl, U., 2007. Global resources and energy trade: An overview for coal, natural gas, oil and uranium.
