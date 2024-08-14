@@ -14,7 +14,7 @@ $$
 B \cdot X \geq b
 $$
 
-Thus, the solver minimizes the total discounted cost $c$ of invesment decisions $X$ at each period $t$ and for all demands $i$, quch that the installed capcities $Q_{k,i}$ satisfy the exogenous demand for energy services $D_i$. The vector of variables include activity levels of technologies, total installed capacities of technologies, additional capacities, quantities of commodity consumed or produced within processes, quantities of commodities stored or discharged, quantities of commodities traded across regions.  
+Thus, the solver minimizes the total discounted cost *c* of invesment decisions *X* at each period *t* and for all demands *i*, quch that the installed capcities $Q_{k,i}$ satisfy the exogenous demand for energy services $D_i$. The vector of variables include activity levels of technologies, total installed capacities of technologies, additional capacities, quantities of commodity consumed or produced within processes, quantities of commodities stored or discharged, quantities of commodities traded across regions.  
 the objective function corresponds to the net present value $NPV$ of the total discounted cost of the energy system of each region $Cost_{r,t}$, which can be expressed as follows:
 
 $$
