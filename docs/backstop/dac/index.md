@@ -6,13 +6,13 @@ Techno-economic properties of DAC technologies are extracted from NASEM (2019) u
 In the case where variable renewable energy (VRA) powers the DAC plants, additional captial costs equal to $300/kWh (McQueen et al., 2021) are included to reflect the need for batteries:
 
 $$
-C_{battery} = C_{VRA} \cdot 24 \cdot (1-AF_{VRA}) \tag{1}
+C_{battery} = C_{VRA} \cdot 24 \cdot (1-AF_{VRA}) (1)
 $$
 
 $C_{VRA}$ and $AF_{VRA}$ respectively denote the required installed capacity of VRA and their availability factor. As DAC plants are run 90% of the time, the renewable capacities need to be oversized according to their capacity factor, which is estimated on average at 20%. The capacity of VRA is thus calculated following equation (2): 
 
 $$
-C_{VRA}= \frac{T_{ec}}{8760 \cdot AF_{VRA}} \tag{2}
+C_{VRA}= \frac{T_{ec}}{8760 \cdot AF_{VRA}} (2)
 $$
 
 Where $T_{ec}$ is the total energy consumption in MWh/tCO2,
