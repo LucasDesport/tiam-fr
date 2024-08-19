@@ -7,8 +7,9 @@ $$ MO + CO_2 \rightarrow MCO_3 + heat $$
 In nature, this chemical reaction rarely occurs due to the elevated temperatures required.  
 In TIAM-FR, either steel slags or pulverized fly ashes can be mineralized along with electricity and heat to operate the mineralization process, as shown in Figure 1. The cost o mineralizing steel slags is comprised between $75/tCO<sub>2</sub> and $100/tCO<sub>2</sub> (NASEM, 2019). However, the amount of CO2 mineralized per ton of mineral produced is 0.02-0.07 tCO<sub>2</sub>/t, 0.37-0.64 tCO<sub>2</sub>/t, and 0.31-0.45 tCO<sub>2</sub>/t respectively for coal fly ahs, steel slags, and blast furnace slags (Meng et al., 2021). The energy requirements to process mineralization are estimate to 400 kWh of electricity and 354 kWh of heat per ton of CO<sub>2</sub> sequestered (Huijgen, 2006).
 
-Fig. 2: Commodity flows in and out mineralization processes
-![](mineralization process.png)
+Fig. 2: Commodity flows in and out mineralization processes  
+
+![](mineralization_process.png)
 
 **References**
 
