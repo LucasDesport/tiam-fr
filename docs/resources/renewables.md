@@ -1,6 +1,6 @@
 # Renewables
 
-Renewable commodities other than biomass can only be used in the power sector. For each one them, the installed capacities in the base year (2018) are estimated according to the IEA Energy Balance (2019). Future potentials for wind, solar, and hydro were estimated based on (NEA, 2015). For geothermal energy and tide energy
+Renewable commodities other than biomass can only be used in the power sector. For each one them, the installed capacities in the base year (2018) are estimated according to the IEA Energy Balance (2020). Future potentials for wind, solar, and hydro were estimated based on (NEA, 2015). For geothermal energy and tide energy
 
 ## Wind, solar & hydro
 
@@ -20,5 +20,6 @@ All these options for new renewable installations are tracked at the country lev
 
 **References**
 
-NEA (2015), Projected Costs of Generating Electricity - 2015 Edition, OECD Publishing, Paris
+IEA, 2020. World Energy Balances - Data product [WWW Document]. IEA. URL https://www.iea.org/data-and-statistics/data-product/world-energy-balances (accessed 11.16.22).  
+NEA (2015), Projected Costs of Generating Electricity - 2015 Edition, OECD Publishing, Paris  
 NREL, 2014. Open Energy Data Initiative (OEDI) [WWW Document]. OpenEI. URL https://data.openei.org/ (accessed 6.4.24).
