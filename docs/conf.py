@@ -24,6 +24,16 @@ myst_enable_extensions = [
 mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 # mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
 
+mathjax_config = {
+    "tex2jax": {
+        "inlineMath": [ ["$", "$"], ["\\(", "\\)"] ],
+        "displayMath": [ ["$$", "$$"], ["\\[", "\\]"] ],
+        "processEscapes": True,
+    },
+    "TeX": {
+        "equationNumbers": { "autoNumber": "AMS" }
+    }
+}
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
