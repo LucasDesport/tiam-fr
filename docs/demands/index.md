@@ -51,9 +51,10 @@ Table 1: List of energy and material demands in TIAM-FR
 
 These drivers are linked to the energy-service demands through a constant and an elasticity, following equation (1).
 
-$$
-Demand_{t}=\ Demand_{t-1} \times driver^{elasticity} \tag{1}
-$$
+\begin{equation}
+Demand_{t} = Demand_{t-1} \times driver^{elasticity}
+\tag{1}
+\end{equation}
 
 The demand drivers encompass population (POP), GDP, number of households (HOU), GDP per capita (GDPP) and GDP per household (GDPPHOU). The approach adopted in TIAM-FR consists of updating the energy and material demands from existing prospective studies from the International Institute for Applied System Analysis (IIASA), based on their Shared Socio-economic Pathways (SSP). Recently in the climate change research community, five narratives have been designed corresponding to different socio-economic and geopolitics pathways for the 21st century (Riahi et al., 2017, Dellinck, 2017). They explore how the world could tackle the challenges of climate change in terms of adaptation, impacts, vulnerabilities, and mitigation according to narrative's description in terms of the evolution of inequalities, region rivalry, fossil-fueled development, and sustainable development. Each SSP has been studied by different laboratories to understand how to solve the climate problem according to their narrative. Their results were extrated from a publicly available database (IIASA, n.d.) which displays the final energy demand of industry, residential and commercial sectors, and transportation, according to:
 
