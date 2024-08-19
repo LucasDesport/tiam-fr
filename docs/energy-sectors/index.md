@@ -18,4 +18,11 @@ glob:
 maxdepth: 5
 ---
 *
+industry/index
+industry/cement/index
+industry/iron-steel/index
+supply/hydrogen
+supply/power-sector
+supply/synthetic-fuels
+supply/biofuels
 ```
