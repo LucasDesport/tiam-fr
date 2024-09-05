@@ -20,7 +20,7 @@ IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://w
 titlesonly:
 maxdepth: 1
 ---
-   cement/index.md
-   iron-steel/index.md
-   other/index.md
+cement/index.md
+iron-steel/index.md
+other/index.md
 ```
