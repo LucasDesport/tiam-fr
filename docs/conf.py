@@ -10,9 +10,10 @@ release = '1.0'
 extensions = [
     'myst_parser',
     'sphinx.ext.mathjax',
-    'sphinx.ext.imgmath'
-    # Other Sphinx extensions
+    'sphinx.ext.imgmath',
+    'rst2pdf.pdfbuilder',
 ]
+
 
 myst_enable_extensions = ["colon_fence", "linkify", "dollarmath", "amsmath"]
 
