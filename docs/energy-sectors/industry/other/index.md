@@ -208,3 +208,8 @@ Table 1: Techno-economic properties of industrial energy-service processes in TI
 | Pulp and paper | Steam          | Oil                     | New technologies      | 1,29   | 0,27  | 0,19  | 0,89       | 0            | 0,80                |
 | Pulp and paper | Steam          | Oven coke               | Existing technologies | 0      | 0     | 0     | 1,00       | 0,00         | 1,00                |
 | Pulp and paper | Steam          | Wastes                  | Existing technologies | 4,12   | 0,18  | 0,15  | 0,75       | 0,00         | 0,80                |
+
+** References **
+Fais, B., Sabio, N., Strachan, N., 2016. The critical role of the industrial sector in reaching long-term emission reduction, energy efficiency and renewable targets. Applied Energy 162, 699–712. https://doi.org/10.1016/j.apenergy.2015.10.112  
+IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
+
