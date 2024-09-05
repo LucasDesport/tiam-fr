@@ -8,7 +8,7 @@ The industry sector englobes several industries:
 + the non-ferrous industry, notably the aluminum industry
 + other industries including tobacco, food, automotive, textile, etc.
 
-In TIAM-FR, the [cement](./cement/index.md) industry and the [iron & steel](./iron-steel/index.md) industry are represented explicitly (Desport, 2023) while the [rest of the industry](./other/index.md) follows a generic bottom-up description of industrial energy-service demands including process heat, steam, machinery, feedstocks, electricity, and others. 
+In TIAM-FR, the [cement](./cement/index.md) industry and the [iron & steel](./iron-steel/index.md) industry are represented explicitly (Desport, 2023) while the  follows a generic bottom-up description of industrial energy-service demands including process heat, steam, machinery, feedstocks, electricity, and others. 
 
 **References**
  
