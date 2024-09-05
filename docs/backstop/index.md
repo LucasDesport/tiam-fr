@@ -7,7 +7,7 @@ In climate mitigation science, a "backstop technology" refers to an advanced tec
 ---
 titlesonly:
 ---
-dac/index
+dac
 nonco2
 mineralization
 ```
