@@ -18,9 +18,7 @@ glob:
 maxdepth: 5
 ---
 *
-industry/other/index
-industry/cement/index
-industry/iron-steel/index
+industry/index
 supply/hydrogen
 supply/power-sector
 supply/synthetic-fuels
