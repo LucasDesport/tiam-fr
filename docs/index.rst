@@ -8,7 +8,7 @@ TIAM-FR documentation
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 5
+   :maxdepth: 3
    
    overview/index
    spatial-representation/index
