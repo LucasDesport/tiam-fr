@@ -14,7 +14,6 @@ extensions = [
     'rst2pdf.pdfbuilder',
 ]
 
-
 myst_enable_extensions = ["colon_fence", "linkify", "dollarmath", "amsmath"]
 
 
@@ -75,6 +74,7 @@ source_suffix = {
     '.md': 'markdown',
 }
 
+pdf_documents = [('index', 'MyProject', 'My Project Documentation', 'Author Name')]
 
 # Other LaTeX settings
 latex_show_urls = 'footnote'  # How to display URLs: 'no', 'footnote', 'inline'
