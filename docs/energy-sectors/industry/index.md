@@ -15,9 +15,11 @@ In TIAM-FR, the [cement](./cement/index.md) industry and the [iron & steel](./ir
 Desport, L., 2023. Intégration de la capture, utilisation et stockage du carbone dans les modèles socio-technico-économiques : optimisation long terme du système énergétique mondial et décarbonation de l’industrie. Université Paris sciences et lettres.  
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
 
-.. toctree::
-   :maxdepth: 1
-
+```{toctree}
+---
+titlesonly:
+maxdepth: 1
+---
    cement/index.md
    iron-steel/index.md
    other/index.md
