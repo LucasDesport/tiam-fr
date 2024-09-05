@@ -15,7 +15,6 @@ The rest of the sectoral energy system is described in the following subsections
 ---
 titlesonly:
 glob:
-maxdepth: 5
 ---
 *
 industry/index
