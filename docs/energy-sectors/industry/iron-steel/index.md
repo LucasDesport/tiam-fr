@@ -33,7 +33,7 @@ Table 1: Possible uses for bioenergy in the steel industry. Substitution potenti
 | Natural gas                                                       | Biomethane            | 0%-100%             |                             |
 | Final production of steel                                         | 2018                  | Natural gas         | Biomethane                  | 0%-100%                                         |                                                  |
 
-## Appendices
+**Appendices**
 
 **Appendix 1: techno-economic assumption of steel manufacturing processes in TIAM-FR**
 |         |                 | Units        | Existing BF-BOF | Retrofitted BF-BOF w/CC | New BF-BOF | BF-BOF w/CC | BF-BOF w/TGR | BF-BOF w/CC & TGR | Existing coke oven | New coke oven | Corex | Corex w/CC | CUPOLA | Existing DRI | Retrofitted DRI-H2 | New DRI-H2 | DRI-H2 w/Electrolyzer | Existing EAF | NewEAF | Finishing process | New finishing process | Hisarna | Hisarna w/CC | Midrex | Midrex w/CC | Retrofitted Midrex w/CC | Existing oxygen production | New oxygen production | Existing pellet production | New pellet production | Existing sinter production | New sinter production | Ulcolysis | Ulcored | Ulcored w/CC | Ulcowin |
