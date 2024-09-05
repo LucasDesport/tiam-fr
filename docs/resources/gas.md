@@ -1,4 +1,4 @@
-# Gas resources
+# Gas
 
 In TIAM-FR, gas resources and extraction costs are extracted from the cost cruves found in (Pye et al., 2020). To reflect that the declared resources are not entirely accessible right off the bat, it is assumed that 10% of the resources of each step can be extracted annually at best.
 
