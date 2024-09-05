@@ -17,10 +17,10 @@ titlesonly:
 glob:
 ---
 *
-industry/index
-industry/cement/index
-industry/iron-steel/index
-industry/other/index
+industry/index.md         # Overview of industry
+      cement/index.md       # Cement section
+      iron-steel/index.md       # Iron and steel section
+      other/index.md       # Other industries section
 supply/hydrogen
 supply/power-sector
 supply/synthetic-fuels
