@@ -14,11 +14,8 @@ extensions = [
     # Other Sphinx extensions
 ]
 
-myst_enable_extensions = [
-    "amsmath",      # Allows LaTeX math
-    "dollarmath",   # Enables $...$ and $$...$$ syntax
-    "colon_fence",  # Enables ::: for block content
-]
+myst_enable_extensions = ["colon_fence", "linkify", "dollarmath", "amsmath"]
+
 
 # Optional: Configure the path to MathJax (not always needed, default usually works)
 mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -71,6 +68,12 @@ latex_documents = [
     ('index', 'TIAM-FR.tex', 'TIAM-FR Documentation',
      'Author One, Author Two, Author Three', 'manual'),
 ]
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
+
 
 # Other LaTeX settings
 latex_show_urls = 'footnote'  # How to display URLs: 'no', 'footnote', 'inline'
