@@ -1,6 +1,6 @@
 # Other industry
 
-The [rest of the industry](./other/index.md) includes pulp and paper, aluminium, chemicals, and other industries. It follows a generic bottom-up description of industrial energy-service demands including process heat, steam, machinery, feedstocks, electricity, and others, as described in (Fais et al., 2019) and Figure 1. The reciepe shows in the figure below features different energy shares between energy services depending on the region and the industrial good manufactured. These shares and net amount are captured by the IEA energy balance (2020) and implemented in TIAM-FR for the base-year.
+The rest of the industry includes pulp and paper, aluminium, chemicals, and other industries. It follows a generic bottom-up description of industrial energy-service demands including process heat, steam, machinery, feedstocks, electricity, and others, as described in (Fais et al., 2019) and Figure 1. The reciepe shows in the figure below features different energy shares between energy services depending on the region and the industrial good manufactured. These shares and net amount are captured by the IEA energy balance (2020) and implemented in TIAM-FR for the base-year.
 
 Figure 1: The reciepe for producing industrial goods in TIAM-FR  
 ![](industry-energy-services.png)
