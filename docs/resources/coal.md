@@ -1,4 +1,4 @@
-# Coal resources
+# Coal
 
 In TIAM-FR, coal resources are disaggregated into two commodiy types, namely brown coal and hard coal, as specified in the Internation Energy Agency (IEA) Energy Balance (IEA, 2020). Brown coal and hardcoal are distinguished by their calorific value, ash content, and moisture content. The estimated coal potentials found in (Pye et al., 2020) do not make this disinction and deliver an aggregate potential across regions. In order to allocate coal ressources to the type of coal, we assume that those are split according to the share initially implemented in ETSAP-TIAM (Loulou and Labriet, 2008) between brown coal and hardcoal (Table 1).
 
