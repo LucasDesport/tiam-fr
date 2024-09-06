@@ -3,10 +3,10 @@
 In TIAM-FR, coal resources are disaggregated into two commodiy types, namely brown coal and hard coal, as specified in the Internation Energy Agency (IEA) Energy Balance (IEA, 2020). Brown coal and hardcoal are distinguished by their calorific value, ash content, and moisture content. The estimated coal potentials found in (Pye et al., 2020) do not make this disinction and deliver an aggregate potential across regions. In order to allocate coal ressources to the type of coal, we assume that those are split according to the share initially implemented in ETSAP-TIAM (Loulou and Labriet, 2008) between brown coal and hardcoal (Table 1).
 
 Table 1: Assumed shares between brown and hard coal resources
-|Resource|AFR|AUS|CAN|CHI|CSA|EEU|FSY|IND|JPN|MEA|MEX|ODA|SKO|USA|WEU|
-|--------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Hard coal|99.9%|86.9%|95.5%|95.9%|83.0%|65.9%|96.0%|87.2%|99.0%|58.6%|95.3%|94.7%|100.0%|79.4%|27.4%|
-|Brown coal|0.1%|13.1%|4.5%|4.1%|17.0%|34.1%|4.0%|12.8%|1.0%|41.4%|4.7%|5.3%|0.0%|20.6%|72.6%|
+| Resource   | AFR  | AUS | CAN | CHI | CSA | EEU | FSY | IND | JPN | MEA | MEX | ODA | SKO  | USA | WEU |
+| ---------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | --- | --- |
+| Hard coal  | 100% | 87% | 96% | 96% | 83% | 66% | 96% | 87% | 99% | 59% | 95% | 95% | 100% | 79% | 27% |
+| Brown coal | 0%   | 13% | 5%  | 4%  | 17% | 34% | 4%  | 13% | 1%  | 41% | 5%  | 5%  | 0%   | 21% | 73% |
 
 According to these shares, intial coal resources of (Pye et al., 2020) are disaggregated into brown coal resources (Table 2) and hard coal resources (Table 3). However, extraction costs (Table 4) are assumed similar regardless the type of coal due to lack of data.
 
