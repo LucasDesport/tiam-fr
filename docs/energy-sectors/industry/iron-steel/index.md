@@ -33,6 +33,8 @@ Table 1: Possible uses for bioenergy in the steel industry. Substitution potenti
 | Natural gas                                                       | Biomethane            | 0%-100%             |                             |
 | Final production of steel                                         | 2018                  | Natural gas         | Biomethane                  | 0%-100%                                         |                                                  |
 
+This modeling of steel was leveraged in a publication about the net-negatvive emissions potential of the sector (Andrade et al., 2024)
+
 **Appendices**
 
 **Appendix 1: techno-economic assumption of steel manufacturing processes in TIAM-FR**
@@ -82,4 +84,6 @@ Suopajärvi, H., Kemppainen, A., Haapakangas, J., Fabritius, T., 2017. Extensive
 Tanzer, S.E., Blok, K., Ramírez, A., 2021. Decarbonising Industry via BECCS: Promising Sectors, Challenges, and Techno-economic Limits of Negative Emissions. Curr Sustainable Renewable Energy Rep 8, 253–262. https://doi.org/10.1007/s40518-021-00195-3  
 Norgate, T., Haque, N., Somerville, M., Jahanshahi, S., 2012. Biomass as a Source of Renewable Carbon for Iron and Steelmaking. ISIJ International 52, 1472–1481. https://doi.org/10.2355/isijinternational.52.1472  
 Yang, F., Meerman, J.C., Faaij, A.P.C., 2021. Carbon capture and biomass in industry: A techno-economic analysis and comparison of negative emission options. Renewable and Sustainable Energy Reviews 144, 111028. https://doi.org/10.1016/j.rser.2021.111028  
+Andrade, C., Desport, L., Selosse, S., 2024. Net-negative emission opportunities for the iron and steel industry on a global scale. Applied Energy 358, 122566. https://doi.org/10.1016/j.apenergy.2023.122566
+
 
