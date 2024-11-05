@@ -1,6 +1,6 @@
 # Renewables
 
-Renewable commodities other than biomass can only be used in the power sector. For each one them, the installed capacities in the base year (2018) are estimated according to the IEA Energy Balance (2020). Future potentials for wind, solar, and hydro were estimated based on (NEA, 2015). For geothermal energy and tide energy
+Renewable commodities other than biomass can only be used in the [power sector](../energy-sectors/supply/power-sector.md), [commercial sector](./energy-sectors/commercial.md), and [commercial sector](./energy-sectors/residential.md). For each one them, the installed capacities in the base year (2018) are estimated according to the IEA Energy Balance (2020). Future potentials for wind, solar, and hydro are estimated based on (NEA, 2015). For geothermal energy and tide & wave energies, there are no potentials specified but the deployment of technologies employing these energies is limited in the [power sector](../energy-sectors/supply/power-sector.md).
 
 ## Wind, solar & hydro
 
@@ -16,7 +16,11 @@ All these options for new renewable installations are tracked at the country lev
 
 ## Geothermal energy
 
+No potentials are explicitly specified.
+
 ## Tide and wave
+
+No potentials are explicitly specified.
 
 **References**
 
