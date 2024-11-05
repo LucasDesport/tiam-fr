@@ -2,24 +2,24 @@
 
 As TIAM-FR operates as a partial-equilibrium model, it requires a baseline energy service demand level for all energy services considered. Table 1 presents a comprehensive list of energy-service demands for every sector with their description, unit and time representation, i.e. either annually, seasonnaly, or hourly satisfied (Daynite). Each energy-service demand is associated with a specific driver (see last column of Table 1), facilitating the projection of future demand throughout the model horizon (2018 to 2100).
 
-Table 1: List of energy and material demands in TIAM-FR
+Table 1: Comprehensive list of energy and material demands in TIAM-FR
 | Demand | Description                     | Unit  | TimeSlice | Driver |
 | ------ | ------------------------------- | ----- | --------- | ------ |
 | NEU    | Non Energy Uses                 | PJ    | Annual    | GDPP   |
-| TAD    | Domestic Aviation               | PJ    | Annual    | GDP    |
-| TAI    | International Aviation          | PJ    | Annual    | GDP    |
-| TRB    | Road Bus                        | Bv-km | Daynite   | POP    |
-| TRC    | Road Commercial Trucks          | Bv-km | Daynite   | GDP    |
+| TAD    | Domestic Aviation               | PJ    | Annual    | POP    |
+| TAI    | International Aviation          | PJ    | Annual    | POP    |
+| TRB    | Road Bus                        | Bv-km | Daynite   | GDPP   |
+| TRC    | Road Commercial Trucks          | Bv-km | Daynite   | GDPP   |
 | TRE    | Road Three Wheels               | Bv-km | Daynite   | POP    |
-| TRH    | Road Heavy Trucks               | Bv-km | Daynite   | GDP    |
-| TRL    | Road Light Vehicle              | Bv-km | Daynite   | GDP    |
-| TRM    | Road Medium Trucks              | Bv-km | Daynite   | GDP    |
+| TRH    | Road Heavy Trucks               | Bv-km | Daynite   | GDPP   |
+| TRL    | Road Light Vehicle              | Bv-km | Daynite   | GDPP   |
+| TRM    | Road Medium Trucks              | Bv-km | Daynite   | GDPP   |
 | TRT    | Road Auto                       | Bv-km | Daynite   | GDPP   |
 | TRW    | Road Two Wheels                 | Bv-km | Daynite   | POP    |
 | TTF    | Rail-Freight                    | PJ    | Daynite   | GDP    |
 | TTP    | Rail-Passengers                 | PJ    | Annual    | POP    |
-| TWD    | Domestic Internal Navigation    | PJ    | Annual    | GDP    |
-| TWI    | International Navigation        | PJ    | Annual    | GDP    |
+| TWD    | Domestic Internal Navigation    | PJ    | Annual    | GDPP   |
+| TWI    | International Navigation        | PJ    | Annual    | GDPP   |
 | AGR    | Agriculture Demand              | PJ    | Annual    | GDPP   |
 | CSC    | Commercial Space Cooling        | PJ    | Daynite   | GDPP   |
 | CCK    | Commercial Cooking              | PJ    | Daynite   | GDPP   |
