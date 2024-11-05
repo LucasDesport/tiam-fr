@@ -6,7 +6,7 @@ Gas trades are calibrated in 2018 based on BP Statistic Review of World Energy (
 
 According to BP (2019), pipeline trades across TIAM-FR regions are declared in 2018 following Table 1. So initial capacities of pipeline-based gas trades are limited to these observed exchanges.
 
-Table 1: Pipeline-based gas exchanges in 2018 (in bcm)
+Table 1: Pipeline-based gas exchanges in 2018 (in bcm) between [regions](../spatial-representation/index.md)
 |  From| USA  | CAN  | MEX | CSA |  WEU  |  EEU |  FSU |  MEA | AFR | IND | CHI | JPN | SKO | AUS | ODA |
 | ---- | ---- | ---- | --- | --- | ----- | ---- | -----| ---- | --- | --- | --- | --- | --- | --- | --- |
 |  To  |      |      |     |     |       |      |      |      |     |     |     |     |     |     |     |
@@ -30,6 +30,7 @@ Table 1: Pipeline-based gas exchanges in 2018 (in bcm)
 
 Liquefied natural gas (LNG) is traded according to BP (2019) statistical review (Table 2).
 
+Table 2: LNG shipping across [regions](../spatial-representation/index.md) (in bcm)
 |  From | USA | CAN | MEX | CSA |  WEU |  EEU |  FSU |  MEA | AFR  | IND | CHI | JPN | SKO | AUS | ODA |
 | ----- | --- | --- | --- | --- | ---- | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- | --- |
 |  To   |     |     |     |     |      |      |      |      |      |     |     |     |     |     |     |
@@ -49,7 +50,7 @@ Liquefied natural gas (LNG) is traded according to BP (2019) statistical review 
 |  AUS  |     |     |     |     |      |      |      |      |      |     |     |     |     |     |     |
 |  ODA  |     |     |     | 1.5 |  0.3 |      | 4.57 |23.5  |  5.6 |     |     |     |     | 2.4 | 21.2|
 
-Before being used in a region or country, the gas tardes needs to be liquified, shipped, regasified. The techno-economic propoerties of liquefaction and regasification processes are as Table 3 shows. The whole chain or liquefaction and regasification shows 10% loss.
+Before being used in a region or country, gas should be liquified, shipped, regasified. The techno-economic propoerties of liquefaction and regasification processes are as Table 3 shows. The whole chain or liquefaction and regasification shows 10% loss.
 
 Table 3: Techno-economic properties of liquefaction and regasification processes for natural gas
 | Attribute  | Liquefaction | Regasification |
