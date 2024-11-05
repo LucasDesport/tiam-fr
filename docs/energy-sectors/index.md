@@ -7,7 +7,7 @@ factories, refineries, end-use devices such as cars and heating systems), or int
 CH<sub>4</sub>, and N<sub>2</sub>O). Figure 1 displays a synthetic view of the RES of TIAM-FR.
 
 ![RES](RES.png)
-Fig. 1: Reference Energy System of TIAM-FR
+Reference Energy System of TIAM-FR
 
 The rest of the sectoral energy system is described in the following subsections.
 
