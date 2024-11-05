@@ -2,7 +2,7 @@
 
 In TIAM-FR, gas resources and extraction costs are extracted from the cost cruves found in (Pye et al., 2020). To reflect that the declared resources are not entirely accessible right off the bat, it is assumed that 10% of the resources of each step can be extracted annually at best.
 
-Table 1: Assumed brown coal resources \[EJ\] across regions. Steps refer to cost assumptions located in Table 2
+Table 1: Assumed brown coal resources \[EJ\] across [regions](../spatial-representation/index.md). Steps refer to cost assumptions located in Table 2
 | step | AFR  | AUS  | CAN  | CHI   | CSA  | EEU  | FSU  | IND  | JPN  | MEA  | MEX  | ODA   | SKO  | USA  | WEU  |
 | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 1    | 2.1  | 3.0  | 3.8  | 3.4   | 3.0  | 3.6  | 2.8  | 4.1  | 8.0  | 2.3  | 3.7  | 3.0   | 8.0  | 3.0  | 2.9  |
@@ -42,7 +42,7 @@ Table 1: Assumed brown coal resources \[EJ\] across regions. Steps refer to cost
 | 35   | 0.0  | 0.0  | 0.0  | 0.0   | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0   | 0.0  | 0.0  | 18.5 |
 | 36   | 0.0  | 0.0  | 0.0  | 0.0   | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0   | 0.0  | 0.0  | 22.4 |
 
-Table 2: Cost of coal extraction \[$/GJ\] across regions
+Table 2: Cost of coal extraction \[$/GJ\] across [regions](../spatial-representation/index.md)
 | step | AFR  | AUS  | CAN  | CHI  | CSA  | EEU  | FSU  | IND  | JPN  | MEA  | MEX  | ODA  | SKO  | USA  | WEU  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | 2.1  | 3.0  | 3.8  | 3.4  | 3.0  | 3.6  | 2.8  | 4.1  | 8.0  | 2.3  | 3.7  | 3.0  | 8.0  | 3.0  | 2.9  |
