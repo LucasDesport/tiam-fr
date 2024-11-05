@@ -55,7 +55,7 @@ Table 4: Cost of coal extraction \[$/GJ\] across [regions](../spatial-representa
 | 10   | 7.9 |     |     |     | 8.6 |     |     |     |      |      |     |     |      |     | 8.1 |
 | 11   | 8.0 |     |     |     |     |     |     |     |      |      |     |     |      |     | 8.8 |
 
-To reflect that the declared resources are not entirely accessible right off the bat, it is assume that 10% of the resources of each step can be extracted annually.
+To reflect that the declared resources are not entirely accessible right off the bat, it is assumed that 10% of each step's resources can be extracted annually.
 
 **References**
 
