@@ -4,10 +4,10 @@ The commercial sector encompasses seven [energy demands](../demands/index.md) in
 The demand for commercial energy services varies according to the period of the year (Figure 1) and space heating works slightly differently from the rest of commercial energy demands (Figure 2).
 
 ![](commercial_comfr.png)  
-Figure 1: Seasonal, [time-slice](../../time-representation/index.md) commercial energy demands in TIAM-FR across [regions](../../spatial-representation/index.md)  
+Figure 1: Seasonal, [time-slice](../time-representation/index.md) commercial energy demands in TIAM-FR across [regions](../spatial-representation/index.md)  
 
 ![](space_heating_comfr.png)  
-Figure 2: Seasonal, [time-slice](../../time-representation/index.md) space heating energy demand in TIAM-FR across [regions](../../spatial-representation/index.md)  
+Figure 2: Seasonal, [time-slice](../time-representation/index.md) space heating energy demand in TIAM-FR across [regions](../spatial-representation/index.md)  
 
 **Technologies and energy carriers**
 
