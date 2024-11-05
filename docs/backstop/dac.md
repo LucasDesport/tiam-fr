@@ -29,7 +29,7 @@ Table 1: Techno-economic properties of DAC in TIAM-FR
 |Lifespan|years|20|20|
 |Discount rate||8.5%|8.5%|
 
-The DAC units generate an certain amount of atmospheric CO<sub>2</sub> captured which can be either [utilized](/energy-sectors/supply/synthetic-fuels.md) or [stored](/non-energy-sectors/CO2-transport-and-storage.md). For more details on the techno-economic assumptions, please consult (Desport et al., 2024).
+The DAC units generate an certain amount of atmospheric CO<sub>2</sub> captured which can be either [utilized](/energy-sectors/supply/synthetic-fuels.md) or [stored](./CO2-transport-and-storage.md). For more details on the techno-economic assumptions, please consult (Desport et al., 2024).
 
 **References**
 NASEM, 2019. Negative Emissions Technologies and Reliable Sequestration: A Research Agenda. National Academies Press, Washington, D.C. https://doi.org/10.17226/25259  
