@@ -5,8 +5,8 @@ paradigms known as MARKAL and EFOM, which respectively model market allocations 
 ETSAP. TIMES is a generator of partial equilibrium techno-economic models representing the energy system of geographical areas (e.g. continents, regions, countries) on
 a long-term horizon. It enables an assessment and discussion of the evolution of energy systems from a technological perspective and according
 to climate policies (taxes, agreements, pledges, etc.). It has been used for a wide range of applications at the local level
-(Andrade, 2022; Genave, 2021; Selosse et al., 2018), national level (Assoumou, 2006; Doudard, 2017; Millot et al., 2020),
-continental level (Postic, 2015; Siggini, 2022), and global level (Boubault and Maïzi, 2019; Kang, 2017; Seck et al., 2022a; Selosse, 2019).  
+(Chlela et al., 2024; Andrade, 2022; Genave, 2021; Selosse et al., 2018), national level (Assoumou, 2006; Doudard, 2017; Millot et al., 2020),
+continental level (Guillot and Assoumou, 2023; Postic, 2015; Siggini, 2022), and global level (Boubault and Maïzi, 2019; Kang, 2017; Seck et al., 2022a; Selosse, 2019).  
 As part of the TIMES model family, TIAM-FR is a linear programming partial equilibrium model. It is categorized as a bottom-up model because of 
 its technology-rich description of the [energy system](../energy-sectors/index.md), depicting and tracking how energy is extracted, transformed, traded, and used in the world. The [demands](../demands/index.md) for energy, transportation and materials are given exogenously.
 
@@ -25,12 +25,14 @@ The model covers [15 regions](../spatial-representation/index.md) and project th
 **References**
 
 ETSAP, 2021. IEA-ETSAP | TIMES [WWW Document]. URL https://iea-etsap.org/index.php/etsap-tools/model-generators/times (accessed 7.5.21).  
-Andrade, C., 2022. PROSPECTIVE ÉNERGÉTIQUE PACA ˸ Quelles transformations futures du territoire pour assurer une transition énergétique et d’économie circulaire?
+Chlela, S., Selosse, S. & Maïzi, N. Decarbonization through Active Participation of the Demand Side in Relatively Isolated Power Systems. Energies 17, 3328 (2024).  
+Andrade, C., 2022. PROSPECTIVE ÉNERGÉTIQUE PACA ˸ Quelles transformations futures du territoire pour assurer une transition énergétique et d’économie circulaire?  
 Genave, A., 2021. Essays on energy vulnerability and energy transition in Small Island Developing States.  
 Selosse, S., Ricci, O., Garabedian, S., Maïzi, N., 2018. Exploring sustainable energy future in Reunion Island. Utilities Policy 55, 158–166. https://doi.org/10.1016/j.jup.2018.10.006  
 Assoumou, E., 2006. Modélisation MARKAL pour la planification énergétique long terme dans le contexte français (phdthesis). École Nationale Supérieure des Mines de Paris.  
 Doudard, R., 2017. Flexibilité et interactions de long terme dans les systèmes multi-énergies: analyse technico-économique des nouvelles filières gazières et électriques en France.  
 Millot, A., Krook-Riekkola, A., Maïzi, N., 2020. Guiding the future energy transition to net-zero emissions: Lessons from exploring the differences between France and Sweden. Energy Policy 139, 111358. https://doi.org/10.1016/j.enpol.2020.111358  
+Guillot, V. & Assoumou, E. Transition of the European power system within planetary boundaries. Working Paper (2023).  
 Postic, S., 2015. Modélisation prospective pour le secteur énergétique en Amérique du Sud - Application aux négociations climatiques internationales (These de doctorat). Paris, ENMP.  
 Siggini, G., 2022. Approche intégrée pour l’analyse prospective de la décarbonisation profonde du système électrique européen à l’horizon 2050 face à la variabilité climatique.  
 Boubault, A., Maïzi, N., 2019. Devising Mineral Resource Supply Pathways to a Low-Carbon Electricity Generation by 2100. Resources 8, 33. https://doi.org/10.3390/resources8010033  
