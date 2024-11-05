@@ -47,8 +47,7 @@ latex_engine = 'pdflatex'  # or 'xelatex' or 'lualatex', depending on your needs
 latex_elements = {
     'papersize': 'a4paper',  # Options: 'a4paper', 'letterpaper'
     'pointsize': '10pt',     # Options: '10pt', '11pt', '12pt'
-    'preamble': r'''
-    
+    # 'preamble': r'''
     # % Avoid blank pages
     #    \renewcommand{\clearpage}{\ifodd\value{page}\else\hfill\null\newpage\fi}
     #    \usepackage{emptypage}
