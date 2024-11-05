@@ -4,10 +4,10 @@ The residential sector encompasses seven [energy demands](../demands/index.md) i
 The demand for commercial energy services varies according to the period of the year (Figure 1) and space heating behaves slightly differently from the rest of residential energy demands (Figure 2).
 
 ![](residential_comfr.png)  
-Figure 1: Seasonal, [time-slice](../time-representation/index.md) residential energy demands in TIAM-FR across [regions](../../spatial-representation/index.md)  
+Figure 1: Seasonal, [time-slice](../time-representation/index.md) residential energy demands in TIAM-FR across [regions](../spatial-representation/index.md)  
 
 ![](space_heating_comfr_res.png)  
-Figure 2: Seasonal, [time-slice](../../time-representation/index.md) space heating energy demand in TIAM-FR across [regions](../../spatial-representation/index.md) 
+Figure 2: Seasonal, [time-slice](../time-representation/index.md) space heating energy demand in TIAM-FR across [regions](../spatial-representation/index.md) 
 
 Residential energy demands can be satisfied by multiple technologies including heat pumps, and processed with numerous energies including gas, coal, electricity, bioenergy, and oil products.
 
