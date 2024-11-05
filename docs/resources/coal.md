@@ -1,16 +1,16 @@
 # Coal
 
-In TIAM-FR, coal resources are disaggregated into two commodiy types, namely brown coal and hard coal, as specified in the Internation Energy Agency (IEA) Energy Balance (IEA, 2020). Brown coal and hardcoal are distinguished by their calorific value, ash content, and moisture content. The estimated coal potentials found in (Pye et al., 2020) do not make this disinction and deliver an aggregate potential across regions. In order to allocate coal ressources to the type of coal, we assume that those are split according to the share initially implemented in ETSAP-TIAM (Loulou and Labriet, 2008) between brown coal and hardcoal (Table 1).
+In TIAM-FR, coal resources are disaggregated into two commodity types, namely brown coal and hard coal, as specified in the Internation Energy Agency (IEA) Energy Balance (IEA, 2020). Brown coal and hardcoal are distinguished by their calorific value, ash content, and moisture content. The estimated coal potentials found in (Pye et al., 2020) do not make this disinction and deliver an aggregate potential across regions. In order to allocate coal ressources to the type of coal across regions, we assume that those are split according to the share initially implemented in ETSAP-TIAM (Loulou and Labriet, 2008) between brown coal and hardcoal (Table 1).
 
-Table 1: Assumed shares between brown and hard coal resources
+Table 1: Assumed shares between brown and hard coal resources across [regions](../spatial-representation/index.md)
 | Resource   | AFR  | AUS | CAN | CHI | CSA | EEU | FSY | IND | JPN | MEA | MEX | ODA | SKO  | USA | WEU |
 | ---------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | --- | --- |
 | Hard coal  | 100% | 87% | 96% | 96% | 83% | 66% | 96% | 87% | 99% | 59% | 95% | 95% | 100% | 79% | 27% |
 | Brown coal | 0%   | 13% | 5%  | 4%  | 17% | 34% | 4%  | 13% | 1%  | 41% | 5%  | 5%  | 0%   | 21% | 73% |
 
-According to these shares, intial coal resources of (Pye et al., 2020) are disaggregated into brown coal resources (Table 2) and hard coal resources (Table 3). However, extraction costs (Table 4) are assumed similar regardless the type of coal due to lack of data.
+According to these shares, initial coal resources from (Pye et al., 2020) are disaggregated into brown coal resources (Table 2) and hard coal resources (Table 3). However, extraction costs (Table 4) are assumed similar regardless the type of coal due to lack of data.
 
-Table 2: Assumed brown coal resources \[EJ\] across regions. Steps refer to cost assumptions located in Table 4
+Table 2: Assumed brown coal resources \[EJ\] across [regions](../spatial-representation/index.md). Steps refer to cost assumptions located in Table 4
 | Step | AFR | AUS    | CAN  | CHI  | CSA   | EEU   | FSU  | IND  | JPN | MEA   | MEX  | ODA  | SKO | USA   | WEU   |
 | ---- | --- | ------ | ---- | ---- | ----- | ----- | ---- | ---- | --- | ----- | ---- | ---- | --- | ----- | ----- |
 | 1    |  | 274    | 1    | 22   | 73    | 258   | 66   | 351  | 27  | 13259 | 1    | 23   |  | 61    | 1805  |
@@ -25,7 +25,7 @@ Table 2: Assumed brown coal resources \[EJ\] across regions. Steps refer to cost
 | 10   | 44  |     |   |   | 12553 |    |   |   |  |    |   |   |  |    | 52493 |
 | 11   | 44  |     |   |   |    |    |   |   |  |    |   |   |  |    | 55303 |
 
-Table 3: Assumed hard coal resources \[EJ\] across regions. Steps refer to cost assumptions located in Table 4
+Table 3: Assumed hard coal resources \[EJ\] across [regions](../spatial-representation/index.md). Steps refer to cost assumptions located in Table 4
 | Step | AFR   | AUS   | CAN   | CHI   | CSA   | EEU   | FSU   | IND   | JPN   | MEA   | MEX   | ODA   | SKO   | USA   | WEU   |
 | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 1    | 318   | 1811  | 21    | 506   | 359   | 500   | 1580  | 2393  | 2717  | 18756 | 21    | 409   | 43849 | 236   | 683   |
@@ -40,7 +40,7 @@ Table 3: Assumed hard coal resources \[EJ\] across regions. Steps refer to cost 
 | 10   | 72299 |       |       |       | 61354 |       |       |       |       |       |       |       |       |       | 19854 |
 | 11   | 72301 |       |       |       |       |       |       |       |       |       |       |       |       |       | 20917 |
 
-Table 4: Cost of coal extraction \[$/GJ\] across regions to be associated to the steps of Table 2 and Table 3
+Table 4: Cost of coal extraction \[$/GJ\] across [regions](../spatial-representation/index.md) to be associated to the steps of Table 2 and Table 3
 | Step | AFR | AUS | CAN | CHI | CSA | EEU | FSU | IND | JPN  | MEA  | MEX | ODA | SKO  | USA | WEU |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---- | --- | --- | ---- | --- | --- |
 | 1    | 1.0 | 1.5 | 0.7 | 1.3 | 1.2 | 1.4 | 1.4 | 1.7 | 1.7  | 3.5  | 0.8 | 1.1 | 4.0  | 0.8 | 1.5 |
