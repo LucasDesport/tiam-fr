@@ -1,11 +1,11 @@
-# -- Project information -----------------------------------------------------
+# -- Project information --
 
 project = 'TIAM-FR'
 copyright = '2024, Centre for Applied Mathematics of Mines Paris - PSL'
 author = 'Author One, Author Two, Author Three'
 release = '1.0'
 
-# -- General configuration ---------------------------------------------------
+# -- General configuration --
 
 extensions = [
     'myst_parser',
@@ -16,11 +16,8 @@ extensions = [
 
 myst_enable_extensions = ["colon_fence", "linkify", "dollarmath", "amsmath"]
 
-
-# Optional: Configure the path to MathJax (not always needed, default usually works)
+# MathJax configuration (optional)
 mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-# mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
-
 mathjax_config = {
     "tex2jax": {
         "inlineMath": [ ["$", "$"], ["\\(", "\\)"] ],
@@ -35,46 +32,43 @@ mathjax_config = {
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-# -- Options for HTML output -------------------------------------------------
+# -- HTML output options --
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
-# -- Options for LaTeX output ------------------------------------------------
+# -- LaTeX output options --
 
-latex_engine = 'pdflatex'  # or 'xelatex' or 'lualatex', depending on your needs
+latex_engine = 'pdflatex'
 
 latex_elements = {
-    'papersize': 'a4paper',  # Options: 'a4paper', 'letterpaper'
-    'pointsize': '10pt',     # Options: '10pt', '11pt', '12pt'
+    'papersize': 'a4paper',
+    'pointsize': '10pt',
     'preamble': r'''
-    % Avoid blank pages
-        \renewcommand{\clearpage}{\ifodd\value{page}\else\hfill\null\newpage\fi}
-        \usepackage{emptypage}
-        % Custom LaTeX commands can go here
-        \usepackage{amsmath,amsfonts,amssymb,amsthm}  % For math symbols
-        \usepackage{graphicx}  % For including graphics
-        \usepackage{hyperref}  % For clickable links in the PDF
+        % Custom LaTeX commands
+        \usepackage{amsmath,amsfonts,amssymb,amsthm}  % Math symbols
+        \usepackage{graphicx}  % Graphics
+        \usepackage{hyperref}  % Hyperlinks in PDF
     ''',
-    'figure_align': 'htbp',  # Positioning of figures
-    # Additional settings:
-    # 'extraclassoptions': 'openany',  # Remove blank pages between chapters
-    # 'fncychap': '\\usepackage[Bjarne]{fncychap}',  # Custom chapter styling
+    'figure_align': 'htbp',
+    # Ensure blank pages are added if needed to start each chapter on a new page
+    'extraclassoptions': '',  # Leave this blank or omit to allow normal chapter-start behavior
 }
 
-# Grouping the document tree into LaTeX files. List of tuples.
-# (source start file, target name, title, author, documentclass [howto/manual]).
+# LaTeX document settings
 latex_documents = [
     ('index', 'TIAM-FR.tex', 'TIAM-FR Documentation',
      'Author One, Author Two, Author Three', 'manual'),
 ]
 
+# Source file suffixes
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
 
+# PDF output options
 pdf_documents = [('index', 'MyProject', 'My Project Documentation', 'Author Name')]
 
-# Other LaTeX settings
-latex_show_urls = 'footnote'  # How to display URLs: 'no', 'footnote', 'inline'
+# Display URLs as footnotes in LaTeX output
+latex_show_urls = 'footnote'
