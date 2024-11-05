@@ -48,14 +48,15 @@ latex_elements = {
     'papersize': 'a4paper',  # Options: 'a4paper', 'letterpaper'
     'pointsize': '10pt',     # Options: '10pt', '11pt', '12pt'
     'preamble': r'''
-    % Avoid blank pages
-        \renewcommand{\clearpage}{\ifodd\value{page}\else\hfill\null\newpage\fi}
-        \usepackage{emptypage}
-        % Custom LaTeX commands can go here
+    
+    # % Avoid blank pages
+    #    \renewcommand{\clearpage}{\ifodd\value{page}\else\hfill\null\newpage\fi}
+    #    \usepackage{emptypage}
+      % Custom LaTeX commands can go here
         \usepackage{amsmath,amsfonts,amssymb,amsthm}  % For math symbols
         \usepackage{graphicx}  % For including graphics
         \usepackage{hyperref}  % For clickable links in the PDF
-    ''',
+    #''',
     'figure_align': 'htbp',  # Positioning of figures
     # Additional settings:
     # 'extraclassoptions': 'openany',  # Remove blank pages between chapters
