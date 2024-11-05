@@ -2,10 +2,10 @@
 
 Coal trades are estimated from (Remme et al. 2007) to remain constant in terms of volume and cost until 2018.
 
-Table 1: Global inter-regional net coal trade (steam coal and coking coal) between world regions
+Table 1: Global inter-regional net coal trade (steam coal and coking coal) between [regions](../spatial-representation/index.md)  
 ![](coal_trades_act_bnd.png)
 
-Table 2: Coal trade transport costs between world regions in $/GJ (
+Table 2: Coal trade transport costs between [regions](../spatial-representation/index.md) in $/GJ  
 ![](coal_trades_act_cost.png)
 
 **Reference**
