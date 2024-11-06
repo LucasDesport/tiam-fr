@@ -59,12 +59,6 @@ Table 3: Emissions factors due to fossil fuel end-use
 | Transport    | CH<sub>4</sub>      | 5.00 | 5.00           | 5.53     | 5.00 | 5.00       | 5.00 | 20.00    |               |        |           |         |                   |
 | Transport    | N<sub>2</sub>O      | 1.40 | 0.60           | 6.10     | 0.10 | 0.10       | 0.60 | 0.60     |               |        |           |         |                   |
 
-## Process CO<sub>2</sub> emissions
-
-Process CO<sub>2</sub> emissions due to limestone calcination occuring the cement process are detailed in Table 2 of the section dedicated to [cement](../../docs/energy-sectors/industry/cement/index.md).
-
-Process CO<sub>2</sub> emissions due to the oxidation of carbon occuring in steel manufacturing processes are detailed in Appendix 1 of the section dedicated to [iron & steel](../../docs/energy-sectors/industry/iron-steel/index.md).
-
 **References**
 
 EIA, 2022. U.S. Energy Information Administration - EIA - Independent Statistics and Analysis [WWW Document]. URL https://www.eia.gov/environment/emissions/co2_vol_mass.php (accessed 10.6.22).
