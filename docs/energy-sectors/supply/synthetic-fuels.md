@@ -10,7 +10,7 @@ For routes converting CO<sub>2</sub> into synthetic fuels, several designs are i
 ![CCU designs](CCU-designs.png)
 Fig. 1: Different designs for CO<sub>2</sub> utiliation in TIAM-FR
 
-As it is assumed that 90% of the CO<sub>2</sub> processed is actually converted, residual emissions are accounted for 1% of the CO<sub>2</sub> flow in the case where fossil CO<sub>2</sub> is employed. For processes convertin CO<sub>2</sub> into synthetic fuels, capacity designs are assumed to a commercial capacity of 11.2 PJ/y (Winchester et al., 2013). All CO<sub>2</sub> utilization processes are commercially available as of 2030.
+As it is assumed that 90% of the CO<sub>2</sub> processed is actually converted, and residual emissions are accounted for 1% of the CO<sub>2</sub> flow in the case where fossil CO<sub>2</sub> is employed. For processes convertin CO<sub>2</sub> into synthetic fuels, capacity designs are assumed to a commercial capacity of 11.2 PJ/y (Winchester et al., 2013). All CO<sub>2</sub> utilization processes are commercially available as of 2030.
 
 ## Hydrogenation
 
@@ -92,5 +92,11 @@ Tab. 3: Techno-economic properties of Fischer-Tropsch processes in TIAM-FR (Zang
 
 The synthetic liquids supply all sectors of the economy, just like conventional fossil fuels, thus assuming for instance that synthetic kerosene is a perfect subsitute for conventional jet fuels, which is yet to be proven technically.
 
-**References**
+**References**  
+Zhang, H., Wang, L., Van herle, J., Maréchal, F. & Desideri, U. Techno-Economic Optimization of CO2-to-Methanol with Solid-Oxide Electrolyzer. Energies 12, 3742 (2019).  
+Hennig, M. & Haase, M. Techno-economic analysis of hydrogen enhanced methanol to gasoline process from biomass-derived synthesis gas. Fuel Processing Technology 216, 106776 (2021).  
+Chauvy, R., Verdonck, D., Dubois, L., Thomas, D. & De Weireld, G. Techno-economic feasibility and sustainability of an integrated carbon capture and conversion process to synthetic natural gas. Journal of CO2 Utilization 47, 101488 (2021).  
+Zang, G., Sun, P., Elgowainy, A. A., Bafana, A. & Wang, M. Performance and cost analysis of liquid fuel production from H2 and CO2 based on the Fischer-Tropsch process. Journal of CO2 Utilization 46, 101459 (2021).
 
+
+ 
