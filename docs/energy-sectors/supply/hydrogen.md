@@ -63,7 +63,7 @@ Table 2: Techno-economic assumptions for different hydrogen production routes
 
 **References**
 
-Parkinson, B., Balcombe, P., Speirs, J.F., Hawkes, A.D., Hellgardt, K., 2019. Levelized cost of CO2 mitigation from hydrogen production routes. Energy Environ. Sci. 12, 19–40. https://doi.org/10.1039/C8EE02079E
-IEA, 2015. Technology Roadmap Hydrogen and Fuel Cells 81.
-DNV-GL, 2020. Study on the Import of Liquid Renewable Energy: Technology Cost Assessment 32.
+Parkinson, B., Balcombe, P., Speirs, J.F., Hawkes, A.D., Hellgardt, K., 2019. Levelized cost of CO2 mitigation from hydrogen production routes. Energy Environ. Sci. 12, 19–40. https://doi.org/10.1039/C8EE02079E  
+IEA, 2015. Technology Roadmap Hydrogen and Fuel Cells 81.  
+DNV-GL, 2020. Study on the Import of Liquid Renewable Energy: Technology Cost Assessment 32.  
 Schmidt, O., Gambhir, A., Staffell, I., Hawkes, A., Nelson, J., Few, S., 2017. Future cost and performance of water electrolysis: An expert elicitation study. International Journal of Hydrogen Energy 42, 30470–30492. https://doi.org/10.1016/j.ijhydene.2017.10.045
