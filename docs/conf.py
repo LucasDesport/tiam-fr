@@ -2,7 +2,7 @@
 
 project = 'TIAM-FR'
 copyright = '2024, Centre for Applied Mathematics of Mines Paris - PSL'
-author = 'Author One, Author Two, Author Three'
+author = 'Lucas Desport, Sophie Chlela, Marie Codet, Charlène Barnet, Sandrine Selosse'
 release = '1.0'
 
 # -- General configuration --
@@ -58,7 +58,7 @@ latex_elements = {
 # LaTeX document settings
 latex_documents = [
     ('index', 'TIAM-FR.tex', 'TIAM-FR Documentation',
-     'Author One, Author Two, Author Three', 'manual'),
+     'Lucas Desport, Sophie Chlela, Marie Codet, Charlène Barnet, Sandrine Selosse', 'manual'),
 ]
 
 # Source file suffixes
