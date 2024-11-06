@@ -1,17 +1,17 @@
 # Power sector
 
-The power sector encompasses two energy commodities, namely centralized electricity and decentralized electricity. 
+The power sector distinguishes two power commodities, namely centralized electricity and decentralized electricity. 
 * Centralized electricity can be generated using various fuels and technologies and is consumed directly in end-use sectors.
 * Decentralized electricity, is specifically generated from wind, solar, or bioenergy without carbon capture and storage (CCS). It is primarily used in the production of [hydrogen](hydrogen.md) or [synthetic fuels](synthetic-fuels.md).
-The power sector can be decarbonized with carbon capture and storage technologies as well as renewables.
+The power sector can be decarbonized with carbon capture (CC) and [storage](../../backstop/CO2-transport-and-storage.md) (CCS) technologies as well as renewables.
 
 ## Technologies
 
-###  Fossil fuel with and without CCS
+###  Fossil fuel with and without CC
 
-The techno-economics assumed for the various fossil-fired plants are listed in Table 1 without CCS and in Table 2 with CCS. The annual availability factor and the discount rate are uniformely and empirically set to 90% and 10% respectively for all technologies. The construction duration of assets is 4 years (Irlam, 2017) regardless the unit is equipped with carbon capture, but the lifespan of assets equiped with carbon capture is 25 years againt 30 years. The regional variation of techno-economics is taken into consideration based on the findings of Ferrari et al. (2019). Carbon capture becomes available as of 2030.
+The techno-economics assumed for the various fossil-fired plants are listed in Table 1 without CC and in Table 2 with CC. The annual availability factor and the discount rate are uniformely set to 90% and 10% respectively for all technologies. The construction duration of assets is 4 years (Irlam, 2017) regardless the unit is equipped with carbon capture, but the lifespan of assets equiped with carbon capture is 25 years againt 30 years. The regional variation of techno-economics is taken into consideration based on the findings of Ferrari et al. (2019). Carbon capture becomes available as of 2030.
 
-Table 1: Techno-economic assumptions of fossil-fired power plants without CCS
+Table 1: Techno-economic assumptions of fossil-fired power plants without CC
 | Fossil fuel plant                                         | CAPEX  | Fixed O&M | Variable O&M | Efficiency |
 | --------------------------------------------------------- | ------ | --------- | ------------ | ---------- |
 | Units                                                     | [$/kW] | [$/kW]    | [$/GJ]       |            |
@@ -28,7 +28,7 @@ Table 1: Techno-economic assumptions of fossil-fired power plants without CCS
 | Oil-fired plant - Peak-load generation                    | 672    | 8         | 4.3          | 32%        |
 | Oil-fired plant - Steam turbine                           | 1188   | 27        | 0.1          | 40%        |
 
-Table 2: Techno-economic assumptions of fossil-fired power plants with CCS
+Table 2: Techno-economic assumptions of fossil-fired power plants with CC
 | Fossil fuel plant                                          | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Capture rate | Reference |
 | ---------------------------------------------------------- | ------ | --------- | ------------ | ---------- | ------------ | --------- |
 | Units                                                      | [$/kW] | [$/kW]    | [$/GJ]       |            |              |           |
@@ -48,11 +48,11 @@ Table 2: Techno-economic assumptions of fossil-fired power plants with CCS
 | Ultrasupercritical pulverized coal with post capture 90%   | 3585   | 80        | 3.3          | 37%        | 90.0%        | IEAGHG    |
 | Ultrasupercritical pulverized coal with post capture 98,5% | 3797   | 85        | 3.7          | 35%        | 98.5%        | IEAGHG    |
 
-### Bioenergy with and without CCS
+### Bioenergy with and without CC
 
-The techno-economic assumptions for bioenergy-fired plants, as summarized in Table 3, are based on data from Kang (2017). To account for the additional costs of integrating a carbon capture unit, we assume that the required effort is equivalent to that for coal-fired power plants. Therefore, we apply the same scaling factor used for coal (Table 4).
+The techno-economic assumptions for bioenergy-fired plants, as summarized in Table 3, are based on data from Kang (2017). To account for the additional costs of integrating a carbon capture unit, we assume that the required effort is equivalent to that for coal-fired power plants. The same scaling factors used for coal with carbon capture are used for bioenergy as well (Table 4).
 
-Table 3: Techno-economic assumptions of bioenergy-fired power plants without CCS
+Table 3: Techno-economic assumptions of bioenergy-fired power plants without CC
 | Technology                          | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Availability factor |
 | ----------------------------------- | ------ | --------- | ------------ | ---------- | ------------------- |
 | Units                               | [$/kW] | [$/kW]    | [$/GJ]       |            |                     |
@@ -61,7 +61,7 @@ Table 3: Techno-economic assumptions of bioenergy-fired power plants without CCS
 | Torrefied pellets direct combustion | 1898   | 67        | 3.3          | 39%        | 85%                 |
 | Torrefied pellets gasification      | 2149   | 86        | 4.5          | 41%        | 90%                 |
 
-Table 4: Techno-economic assumptions of bioenergy-fired power plants with CCS
+Table 4: Techno-economic assumptions of bioenergy-fired power plants with CC
 | Technology                                              | CAPEX  | Fixed O&M | Variable O&M | Efficiency |
 | ------------------------------------------------------- | ------ | --------- | ------------ | ---------- |
 | Units                                                   | [$/kW] | [$/kW]    | [$/GJ]       |            |
@@ -70,7 +70,7 @@ Table 4: Techno-economic assumptions of bioenergy-fired power plants with CCS
 | Torrefied pellets direct combustion with carbon capture | 3419   | 99        | 6.5          | 28%        |
 | Torrefied pellets gasification with carbon capture      | 3932   | 112       | 8.2          | 29%        |
 
-#### Co-firing with and without CCS
+#### Co-firing with and without CC
 
 The simultaneous firing of coal and bioenergy takes various forms:
 
@@ -79,7 +79,7 @@ The simultaneous firing of coal and bioenergy takes various forms:
 * the fuels can either be fed seperately or together at the burner, or they may be co-milled
 * the fuels can either be gasified or pulverized
 
-Table 5 summarizes the techno-economic assumptions for co-firing processes. We apply the same scaling factor as for coal for considering carbon capture in co-firing processes (Table 6)
+Table 5 summarizes the techno-economic assumptions for co-firing processes. The same scaling factor as for coal with carbon capture are applied with co-firing processes (Table 6)
 
 Table 5: Techno-economic assumptions for co-firing processes (Kang, 2017)
 | Technology                                      | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Input Share | Input Share | Input Share |
@@ -128,7 +128,7 @@ Table 5: Techno-economic assumptions for co-firing processes (Kang, 2017)
 | Pulverized Coal.Co-Firing. Parallel        | 2480      | 99       | 0.70     | 47%     |          |          | 40%      |
 | Pulverized Coal.Co-Firing. Seperate feeding | 2308      | 115      | 0.70     | 47%     |          |         | 40%      |
 
-Table 6: Techno-economic assumptions of co-firing processes with carbon capture 
+Table 6: Techno-economic assumptions of co-firing processes with CC 
 | Technology                                                     | CAPEX  | Fixed O&M | Variable O&M | Efficiency | Input share   | Input Share | Input Share |
 | -------------------------------------------------------------- | ------ | --------- | ------------ | ---------- | -------- | -------- | -------- |
 | Units                                                          | [$/kW] | [$/kW]    | [$/GJ]       |            | Solid biomass | Pellets | Torrefied pellets |
@@ -172,7 +172,7 @@ Table 6: Techno-economic assumptions of co-firing processes with carbon capture
 Detailed country-level potentials for onshore and offshore wind, photovoltaic, and hydro are used. Wind potentials are segmented by resource class, distance from transmission, and, for offshore wind, depth. Each country-level segment has its own cost, resulting in a detailed global wind supply curve. PV potential is similarly segmented by resource class within each country. Hydro is specified by a three-step cost supply curve.  
 Due to the very explicit, technology-rich description of WWS, Table 7 summarizes statistically the capital cost of WWS by grouping them by technology, class and year. In brackets are shown the 5th and 95th percentiles of capital costs.
 
-Table 7: Present and future median capital cost for WWS technologies (in $/kW). Values under brackets represent 5th and 95 percentiles.
+Table 7: Present and future median capital cost for WWS technologies (in $/kW). Values under brackets represent the 5th and 95 percentiles.
 | Technology    | Class | 2018                | 2050                |
 | ------------- | ----- | ------------------- | ------------------- |
 | Hydro         | 1     | 2231 [1281 - 6000]  | 2231 [1281 - 6000]  |
