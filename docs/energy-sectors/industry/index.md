@@ -12,7 +12,7 @@ In TIAM-FR, the [cement](./cement/index.md) industry and the [iron & steel](./ir
 
 **References**
  
-Desport, L., 2023. Intégration de la capture, utilisation et stockage du carbone dans les modèles socio-technico-économiques : optimisation long terme du système énergétique mondial et décarbonation de l’industrie. Université Paris sciences et lettres.  
+Desport, L., 2023. Implementation of Carbon Capture Utilization and Storage in global socio-techno-economic models: long-term optimization of the energy system and industry decarbonization. Université Paris Sciences et Lettres.  
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
 
 ```{toctree}
