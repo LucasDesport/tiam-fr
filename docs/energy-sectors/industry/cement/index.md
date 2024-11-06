@@ -9,7 +9,7 @@ Figure 1: Reference energy system of the cement sector
 The energy consumption of the global cement industry is disaggregated for each regions of TIAM-FR according to the types of energy; either solid fuels (coal, coke, pet coke, oven coke, municipal waste, biochar, wood biomass, pellets or torrefied pellets), gaseous fuels (natural gas, coke oven gas, liquefied petroleum gas, blast furnace gas, biogas or synthetic biomethane), or liquid fuels (heavy fuel oil, or a predefined mix of fossil (resp. bio-based) diesel and gasoline (INMOIL) (resp. INMBOIL)). This choice is made as the type of kilns and burners in cement plants depend on the state of energy used and other infrastructures such as storage tanks or pipelines that is difficult to consider in TIAM-FR. We isolate heat and electricity because these energy carriers cannot be used in conventional kilns, i.e. they require a substantial capital investment. If the fuels are ultimately processed in cement plants equipped with carbon capture units, the amount of CO<sub>2</sub> captured is accounted at the same level of the RES. Once CO<sub>2</sub> is captured, it can be either [stored](../../../backstop/CO2-transport-and-storage.md) or converted into [synthetic fuels](../../supply/synthetic-fuels.md) or [minerals](/backstop/mineralization.md).  
 Assuming that the lifetime of cement plants approximates 40 years (Cembureau, 2018a; IEA, 2020a), the remaining lifetime of current assets is evaluated in Table 2 for each region based on (IEA, 2020d).
 
-Table 1: clinker-to-cement ratio in the base-year across [regions](../../../spatial-representation.md) of TIAM-FR
+Table 1: clinker-to-cement ratio in the base-year across [regions](../../../spatial-representation/index.md) of TIAM-FR
 | **Region** | **Clinker-to-cement ratio** | **Reference**                        |
 | ---------- | --------------------------- | ------------------------------------ |
 | **AFR**    | 75%                         | (IEA, 2017)                          |
@@ -28,7 +28,7 @@ Table 1: clinker-to-cement ratio in the base-year across [regions](../../../spat
 | **USA**    | 89%                         | (Rowland, 2021)                      |
 | **WEU**    | 74%                         | (Cembureau, 2018b)                   |
 
-Table 2: Remaining lifetime of existing assets across [regions](../../../spatial-representation.md) of TIAM-FR
+Table 2: Remaining lifetime of existing assets across [regions](../../../spatial-representation/index.md) of TIAM-FR
 | **AFR** | **AUS** | **CAN** | **CHI** | **CSA** | **EEU** | **FSU** | **IND** | **JPN** | **MEA** | **MEX** | **ODA** | **SKO** | **USA** | **WEU** |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26      | 26      | 22      | 28      | 24      | 27      | 21      | 27      | 18      | 26      | 24      | 26      | 26      | 21      | 27      |
