@@ -2,7 +2,7 @@
 
 project = 'TIAM-FR'
 copyright = '2024, Centre for Applied Mathematics of Mines Paris - PSL'
-author = 'Lucas Desport, Sophie Chlela, Marie Codet, Charlène Barnet, Sandrine Selosse'
+author = 'L. Desport, S. Chlela, M. Codet, C. Barnet, S. Selosse'
 release = '1.0'
 
 # -- General configuration --
