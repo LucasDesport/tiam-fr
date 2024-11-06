@@ -5,7 +5,7 @@ Biofuels denote end-use fuels made out of transformed [biomass](\resources\bioma
 ## Biodiesel and bioethanol
 
 Table 1 and Table 2 display the technoeconomic characteristics of the processes biodiesel and bioethanol in TIAM-FR.
-The processes can be divided into two categories: biodiesel refineries and bioethanol refineries, fed with different types of biomass, whose global potentials and harvesting costs were established by (Kang, 2017). The biodiesel plants either work with a fast pyrolysis (FP) process or a Fischer-Tropsch (FT) process. In the cases when a CO<sub>2</sub> capture unit is set up, the efficiency can be improved to its maximum (see MAX label), hence the specification in the first columns of Table 2.
+The processes can be divided into two categories: biodiesel refineries and bioethanol refineries, fed with different types of biomass, whose global potentials and harvesting costs were established by (Kang, 2017). The biodiesel plants either work with a fast pyrolysis (FP) process or a Fischer-Tropsch (FT) process. In the cases when a CO<sub>2</sub> capture unit is set up, the efficiency can be improved to its maximum (MAX), hence the specification in the first columns of Table 2.
 
 Table 1: Technological characteristics of biorefineries generating biodiesel and bioethanol. All values are displayed per PJ of output biofuel
 | **Row Labels**                                                          | **CO<sub>2</sub> capture [kt]** | **Wheat [PJ]** | **Maize [PJ]** | **Crop starch [PJ]** | **Wood [PJ]** | **Logging residues [PJ]** | **Electricity [PJ]** | **Gas [PJ]** |
@@ -76,8 +76,8 @@ Biochar is a type of charcoal that is produced by pyrolyzing organic materials (
 
 **References**
 
-IEAGHG, 2021. Biorefineries with CCS.
-Kang, S., 2017. La place de la bioénergie dans un monde sobre en carbone: Analyse prospective et développement de la filière biomasse dans le modèle TIAM-FR. MINES ParisTech.
-Feliciano-Bruzual, C., 2014. Charcoal injection in blast furnaces (Bio-PCI): CO2 reduction potential and economic prospects. Journal of Materials Research and Technology 3, 233–243. https://doi.org/10.1016/j.jmrt.2014.06.001
+IEAGHG, 2021. Biorefineries with CCS.  
+Kang, S., 2017. La place de la bioénergie dans un monde sobre en carbone: Analyse prospective et développement de la filière biomasse dans le modèle TIAM-FR. MINES ParisTech.  
+Feliciano-Bruzual, C., 2014. Charcoal injection in blast furnaces (Bio-PCI): CO2 reduction potential and economic prospects. Journal of Materials Research and Technology 3, 233–243. https://doi.org/10.1016/j.jmrt.2014.06.001  
 Nematian, M., Keske, C., Ng’ombe, J.N., 2021. A techno-economic analysis of biochar production and the bioeconomy for orchard biomass. Waste Management 135, 467–477. https://doi.org/10.1016/j.wasman.2021.09.014
 
