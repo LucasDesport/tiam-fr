@@ -7,6 +7,7 @@ In TIAM-FR, the emissions represented are carbon dioxide (CO<sub>2</sub>), metha
 titlesonly:
 ---
 fossil-fuel-emissions
+nonNRG
 CO2-accounting
 ```
 
