@@ -2,7 +2,7 @@
 
 The rest of the industry includes pulp and paper, aluminium, chemicals, and other industries. It follows a generic bottom-up description of industrial energy-service demands including process heat, steam, machinery, feedstocks, electricity, and others, as described in (Fais et al., 2019) and Figure 1. The reciepe shows in the figure below features different energy shares between energy services depending on the region and the industrial good manufactured. These shares and net amount are captured by the IEA energy balance (2020) and implemented in TIAM-FR for the base-year.
 
-Figure 1: The reciepe for producing industrial goods in TIAM-FR  
+Figure 1: The receipe for producing industrial goods in TIAM-FR  
 ![](industry-energy-services.png)
 
 The model chooses which energy are the most competitive to deliver these energy demands, and it is possible to invest in new, more efficient industrial assets to improve the performance of the industry. The techno-economic assumptions for these processes are given in Table 1.
@@ -209,7 +209,7 @@ Table 1: Techno-economic properties of industrial energy-service processes in TI
 | Pulp and paper | Steam          | Oven coke               | Existing technologies | 0      | 0     | 0     | 1,00       | 0,00         | 1,00                |
 | Pulp and paper | Steam          | Wastes                  | Existing technologies | 4,12   | 0,18  | 0,15  | 0,75       | 0,00         | 0,80                |
 
-** References **
+**References**
 Fais, B., Sabio, N., Strachan, N., 2016. The critical role of the industrial sector in reaching long-term emission reduction, energy efficiency and renewable targets. Applied Energy 162, 699–712. https://doi.org/10.1016/j.apenergy.2015.10.112  
 IEA, 2020. World Energy Balances – Analysis [WWW Document]. IEA. URL https://www.iea.org/reports/world-energy-balances-overview (accessed 3.14.22).
 
