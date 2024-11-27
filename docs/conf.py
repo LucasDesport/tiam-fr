@@ -14,7 +14,10 @@ extensions = [
     # 'rst2pdf.pdfbuilder',
 ]
 
-myst_enable_extensions = ["colon_fence", "linkify", "dollarmath", "amsmath"]
+myst_enable_extensions = ["colon_fence",
+                          # "linkify",
+                          "dollarmath",
+                          "amsmath"]
 
 # MathJax configuration (optional)
 mathjax_path = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
