@@ -58,7 +58,7 @@ latex_elements = {
 # LaTeX document settings
 latex_documents = [
     ('index', 'TIAM-FR.tex', 'TIAM-FR Documentation',
-     'L. Desport, S. Chlela, M. Codet, C. Barnet, S. Selosse', 'manual'),
+     L. Desport (Author), S. Chlela, M. Codet, C. Barnet, S. Selosse (co-authors), 'manual'),
 ]
 
 # Source file suffixes
