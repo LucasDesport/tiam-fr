@@ -1,6 +1,6 @@
 # Documentation of the French version of the TIMES Integrated Assessment Model (TIAM-FR)
 
-TIAM-FR is a [TIMES](https://github.com/etsap-TIMES/TIMES_model) energy model representing the global energy system and optimizing the cost of supplying energy to end-users, including industry, commercial, residential, transport and agriculture sectors. It is maintained and developped by the [Centre for applied Mathematics of Mines Paris - PSL](https://www.cma.mines-paristech.fr/). While the model is not open-acces, this GitHub repository hosts the documentation written in Markdown and configured to be processed either with ```sphinx``` or *Read the docs*. Besides, the TIMES Source code is available on [GitHub](https://github.com/etsap-TIMES/TIMES_model).
+TIAM-FR is a [TIMES](https://github.com/etsap-TIMES/TIMES_model) energy model representing the global energy system and optimizing the cost of supplying energy to end-users, including industry, commercial, residential, transport and agriculture sectors. It is maintained and developped by the [Centre for applied Mathematics of Mines Paris - PSL](https://www.cma.mines-paristech.fr/). While the model is not open-acces, this GitHub repository hosts the documentation written in Markdown and configured to be processed either with ```sphinx``` or [*Read the docs*](https://tiam-fr.readthedocs.io/en/latest/index.html). Besides, the TIMES Source code is available on [GitHub](https://github.com/etsap-TIMES/TIMES_model).
 
 # Model overview
 
