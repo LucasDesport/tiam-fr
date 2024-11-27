@@ -11,7 +11,7 @@ extensions = [
     'myst_parser',
     'sphinx.ext.mathjax',
     'sphinx.ext.imgmath',
-    'rst2pdf.pdfbuilder',
+    # 'rst2pdf.pdfbuilder',
 ]
 
 myst_enable_extensions = ["colon_fence", "linkify", "dollarmath", "amsmath"]
