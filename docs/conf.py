@@ -58,7 +58,7 @@ latex_elements = {
 # LaTeX document settings
 latex_documents = [
     ('index', 'TIAM-FR.tex', 'TIAM-FR Documentation',
-     L. Desport (Author), S. Chlela, M. Codet, C. Barnet, S. Selosse (co-authors), 'manual'),
+     'L. Desport (Author); S. Chlela, M. Codet, C. Barnet, S. Selosse (Co-Authors)', 'manual'),
 ]
 
 # Source file suffixes
@@ -68,7 +68,10 @@ source_suffix = {
 }
 
 # PDF output options
-pdf_documents = [('index', 'MyProject', 'My Project Documentation', 'Author Name')]
+pdf_documents = [
+    ('index', 'TIAM-FR', 'TIAM-FR Documentation', 
+     'L. Desport (Author); S. Chlela, M. Codet, C. Barnet, S. Selosse (Co-Authors)')
+]
 
 # Display URLs as footnotes in LaTeX output
 latex_show_urls = 'footnote'
